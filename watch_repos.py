@@ -2,19 +2,17 @@
 # -*- coding: utf-8 -*-
 """
 每天搜索 GitHub 仓库，命中关键词的新项目追加到 new.txt。
-- type=repositories
-- sort=updated (Recently updated)
-- 关键词不区分大小写
-- 与 new.txt 中已有链接去重
+只用标准库，无需安装 requests。
 """
 
 import os
 import re
 import sys
+import json
 import time
+import urllib.parse
+import urllib.request
 from datetime import datetime, timezone
-
-import requests
 
 # ============ 配置区（以后增删关键词只改这里） ============
 KEYWORDS = [
@@ -26,9 +24,9 @@ KEYWORDS = [
 ]
 
 OUTPUT_FILE = "new.txt"
-PER_PAGE = 30          # 每个关键词抓取数量
-MAX_PAGES = 2          # 每个关键词最多翻几页
-SORT = "updated"       # Recently updated
+PER_PAGE = 30
+MAX_PAGES = 2
+SORT = "updated"
 ORDER = "desc"
 # ==========================================================
 
@@ -46,7 +44,6 @@ LINK_RE = re.compile(r"https://github\.com/[^\s|]+")
 
 
 def load_existing(path):
-    """读取已记录的项目链接集合。"""
     existing = set()
     if not os.path.exists(path):
         return existing
@@ -58,41 +55,41 @@ def load_existing(path):
 
 
 def search(keyword, page):
-    params = {
-        "q": keyword,          # 关键词（GitHub 搜索不区分大小写）
+    params = urllib.parse.urlencode({
+        "q": keyword,
         "sort": SORT,
         "order": ORDER,
         "per_page": PER_PAGE,
         "page": page,
-    }
-    r = requests.get(API, headers=HEADERS, params=params, timeout=30)
-    if r.status_code == 403:
-        print(f"[WARN] rate limited on '{keyword}' page {page}", file=sys.stderr)
+    })
+    url = f"{API}?{params}"
+    req = urllib.request.Request(url, headers=HEADERS)
+    try:
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            data = json.loads(resp.read().decode("utf-8"))
+            return data.get("items", [])
+    except urllib.error.HTTPError as e:
+        print(f"[WARN] HTTP {e.code} on '{keyword}' page {page}: {e.reason}", file=sys.stderr)
         return []
-    r.raise_for_status()
-    return r.json().get("items", [])
+    except Exception as e:
+        print(f"[ERROR] search '{keyword}' page {page}: {e}", file=sys.stderr)
+        return []
 
 
 def main():
     existing = load_existing(OUTPUT_FILE)
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S")
 
-    # 合并所有关键词的结果，按 full_name 去重
-    found = {}   # full_name -> repo dict
+    found = {}
     for kw in KEYWORDS:
         for page in range(1, MAX_PAGES + 1):
-            try:
-                items = search(kw, page)
-            except Exception as e:
-                print(f"[ERROR] search '{kw}' page {page}: {e}", file=sys.stderr)
-                break
+            items = search(kw, page)
             if not items:
                 break
             for it in items:
                 found[it["full_name"]] = it
-            time.sleep(2)  # 避免触发搜索 API 速率限制（未认证 10 req/min）
+            time.sleep(2)
 
-    # 过滤已存在的
     new_items = []
     for full_name, it in found.items():
         url = it["html_url"].rstrip("/").lower()
@@ -101,12 +98,10 @@ def main():
         new_items.append(it)
         existing.add(url)
 
-    # 按更新时间排序，保证输出稳定
     new_items.sort(key=lambda x: x.get("updated_at", ""), reverse=True)
 
     if not new_items:
         print("没有发现新项目。")
-        # 若文件不存在，仍然创建带表头的文件
         if not os.path.exists(OUTPUT_FILE):
             write_header()
         return
