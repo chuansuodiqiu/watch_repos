@@ -16,8 +16,8 @@ from datetime import datetime, timezone
 
 # ============ 配置区（以后增删关键词只改这里） ============
 KEYWORDS = [
-    "masque",
-    "zerotrust",
+    "warp masque",
+    "zerotrust masque",
     "usque",
     "aether masque",
     "WarpScout",
