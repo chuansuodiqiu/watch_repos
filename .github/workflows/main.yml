@@ -1,0 +1,39 @@
+name: Watch GitHub Repos
+
+on:
+  schedule:
+    # 每天 UTC 00:00 运行（北京时间 08:00）
+    - cron: '0 0 * * *'
+  workflow_dispatch: {}   # 支持手动触发
+
+permissions:
+  contents: write         # 需要写权限来 commit new.txt
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run watcher
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python watch_repos.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add new.txt
+          if git diff --cached --quiet; then
+            echo "没有新项目，跳过提交"
+          else
+            git commit -m "chore: update new.txt $(date -u +'%Y-%m-%d %H:%M:%S')"
+            git push
+          fi
