@@ -1,13 +1,15 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-每天搜索 GitHub 仓库，命中关键词的新项目追加到 README.md。
+每天搜索 GitHub 仓库，命中关键词的新项目写入 README.md。
 只用标准库，无需安装 requests。
+
 - type=repositories
 - sort=updated (Recently updated)
 - 关键词不区分大小写
 - 与 README.md 中已有链接去重
-- Markdown 表格排版，含 star 数，链接显示为「点击查看」
+- Markdown 表格：序号 | 创建时间 | 项目名 | Star | 项目介绍 | 链接
+- 整表按项目创建时间从早到晚排序，序号每次重新编号
 """
 
 import os
@@ -48,10 +50,15 @@ if token:
 
 # 匹配表格行里的链接，用于去重
 LINK_RE = re.compile(r"https://github\.com/[^\s\)\|]+")
+# 解析已有表格数据行：| # | 创建时间 | 项目名 | Star | 介绍 | [点击查看](url) |
+ROW_RE = re.compile(
+    r"^\|\s*\d+\s*\|\s*(?P<created>[^|]*?)\s*\|\s*(?P<name>[^|]*?)\s*\|"
+    r"\s*(?P<stars>[^|]*?)\s*\|\s*(?P<desc>[^|]*?)\s*\|\s*\[点击查看\]\((?P<url>[^)]+)\)\s*\|\s*$"
+)
 
 
-def load_existing(path):
-    """从 README.md 中提取已记录的仓库链接（小写）。"""
+def load_existing_urls(path):
+    """从 README.md 提取已记录的仓库链接（小写）。"""
     existing = set()
     if not os.path.exists(path):
         return existing
@@ -60,6 +67,27 @@ def load_existing(path):
             for m in LINK_RE.findall(line):
                 existing.add(m.rstrip("/").lower())
     return existing
+
+
+def read_existing_rows(path):
+    """读取已有数据行，解析出字段。"""
+    rows = []
+    if not os.path.exists(path):
+        return rows
+    with open(path, "r", encoding="utf-8") as f:
+        for line in f:
+            line = line.rstrip("\n")
+            m = ROW_RE.match(line)
+            if not m:
+                continue
+            rows.append({
+                "created": m.group("created").strip(),
+                "name": m.group("name").strip(),
+                "stars": m.group("stars").strip(),
+                "desc": m.group("desc").strip(),
+                "url": m.group("url").strip(),
+            })
+    return rows
 
 
 def search(keyword, page):
@@ -85,42 +113,34 @@ def search(keyword, page):
 
 
 def escape_md(text):
-    """转义 Markdown 表格里的特殊字符。"""
     if not text:
         return "(无描述)"
     text = text.replace("\n", " ").replace("\r", " ").replace("|", "/")
     return text.strip() or "(无描述)"
 
 
-def read_existing_rows(path):
-    """读取已有表格的数据行（保留原顺序）。"""
-    rows = []
-    if not os.path.exists(path):
-        return rows
-    with open(path, "r", encoding="utf-8") as f:
-        for line in f:
-            line = line.rstrip("\n")
-            # 只保留表格数据行（以 | 开头，且不是表头/分隔行）
-            if line.startswith("|") and "---" not in line and "记录时间" not in line:
-                rows.append(line)
-    return rows
-
-
 def write_readme(rows, now):
-    """重写 README.md。"""
+    """按创建时间从早到晚排序，重新编号，重写 README.md。"""
+    # 排序：created 是 YYYY-MM-DD 字符串，可直接字典序比较；空值放最后
+    rows_sorted = sorted(rows, key=lambda r: (r["created"] == "", r["created"]))
+
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write("# GitHub 仓库监控记录\n\n")
         f.write("> 关键词: " + " / ".join(f"`{k}`" for k in KEYWORDS) + "  \n")
-        f.write("> 排序: Recently updated  \n")
-        f.write(f"> 最后更新: {now} UTC\n\n")
-        f.write("| 记录时间 | 项目名 | Star | 项目介绍 | 链接 |\n")
-        f.write("| --- | --- | ---: | --- | --- |\n")
-        for row in rows:
-            f.write(row + "\n")
+        f.write("> 排序: 按项目创建时间（从早到晚）  \n")
+        f.write(f"> 最后更新: {now} UTC  \n")
+        f.write(f"> 共 {len(rows_sorted)} 个项目\n\n")
+        f.write("| # | 创建时间 | 项目名 | Star | 项目介绍 | 链接 |\n")
+        f.write("| ---: | --- | --- | ---: | --- | --- |\n")
+        for i, r in enumerate(rows_sorted, start=1):
+            f.write(
+                f"| {i} | {r['created']} | {r['name']} | {r['stars']} | "
+                f"{r['desc']} | [点击查看]({r['url']}) |\n"
+            )
 
 
 def main():
-    existing = load_existing(OUTPUT_FILE)
+    existing_urls = load_existing_urls(OUTPUT_FILE)
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S")
 
     # 抓取所有关键词，按 full_name 去重
@@ -134,32 +154,29 @@ def main():
                 found[it["full_name"]] = it
             time.sleep(2)
 
-    # 过滤掉已记录的
-    new_items = []
+    # 读已有行
+    rows = read_existing_rows(OUTPUT_FILE)
+
+    # 把新发现的追加进 rows
+    added = 0
     for full_name, it in found.items():
         url = it["html_url"].rstrip("/").lower()
-        if url in existing:
+        if url in existing_urls:
             continue
-        new_items.append(it)
-        existing.add(url)
+        existing_urls.add(url)
+        rows.append({
+            "created": (it.get("created_at") or "")[:10],   # YYYY-MM-DD
+            "name": it["full_name"],
+            "stars": str(it.get("stargazers_count", 0)),
+            "desc": escape_md(it.get("description")),
+            "url": it["html_url"],
+        })
+        added += 1
 
-    # 已存在的行（保持原顺序）
-    old_rows = read_existing_rows(OUTPUT_FILE)
+    write_readme(rows, now)
 
-    # 新行按更新时间倒序，追加在老行后面
-    new_rows = []
-    for it in sorted(new_items, key=lambda x: x.get("updated_at", ""), reverse=True):
-        name = it["full_name"]
-        stars = it.get("stargazers_count", 0)
-        desc = escape_md(it.get("description"))
-        url = it["html_url"]
-        new_rows.append(f"| {now} | {name} | {stars} | {desc} | [点击查看]({url}) |")
-
-    all_rows = old_rows + new_rows
-    write_readme(all_rows, now)
-
-    if new_rows:
-        print(f"新增 {len(new_rows)} 个项目。")
+    if added:
+        print(f"新增 {added} 个项目。")
     else:
         print("没有发现新项目。")
 
