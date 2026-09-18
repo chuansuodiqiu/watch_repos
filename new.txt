@@ -1,0 +1,191 @@
+# GitHub 仓库监控记录
+# 关键词: masque / zerotrust / usque / aether masque / WarpScout
+# 排序: Recently updated
+# 格式: [记录时间] | 项目名 | 项目介绍 | 项目链接
+
+[2026-09-18 13:31:44] | ferneast/masque-tunnel | (无描述) | https://github.com/ferneast/masque-tunnel
+[2026-09-18 13:31:44] | vernette/warpscout | 🛰️ Cloudflare WARP endpoint scanner - find working endpoints over wg/awg/masque and see the exit region and edge node they land on | https://github.com/vernette/warpscout
+[2026-09-18 13:31:44] | ritika121201/cognitive-masks | Unlock Agentic AI with Temporary Cognitive Identities 2026 - Masques Plugin | https://github.com/ritika121201/cognitive-masks
+[2026-09-18 13:31:44] | mbm110/MSN-GUARD | High-performance Rust-powered Android VPN — Full-device tunneling via SHARD (Custom Protocol), MASQUE/HTTP-3, WireGuard, WARP-on-WARP, Psiphon, and Tor. | https://github.com/mbm110/MSN-GUARD
+[2026-09-18 13:31:44] | mp0rta/mqvpn | Multipath VPN using MASQUE and Multipath QUIC | https://github.com/mp0rta/mqvpn
+[2026-09-18 13:31:44] | pramath-crypto/masque | (无描述) | https://github.com/pramath-crypto/masque
+[2026-09-18 13:31:44] | darlinm4344/audiobookshelf-app-cloudflare-zero-trust | Enable Cloudflare Zero Trust authentication for the Audiobookshelf Android app with automatic WebView SSO and LAN routing. | https://github.com/darlinm4344/audiobookshelf-app-cloudflare-zero-trust
+[2026-09-18 13:31:44] | vallamble/masquerading | (无描述) | https://github.com/vallamble/masquerading
+[2026-09-18 13:31:44] | KJGX66F/usque-custom-pro | 基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。 | https://github.com/KJGX66F/usque-custom-pro
+[2026-09-18 13:31:44] | hidooch980/molidovpn-android | MolidoVPN for Android: native device-wide VPN (Kotlin + Rust) with MASQUE, WARP, AmneziaWG, V2Ray, Psiphon, Tor (AGPL-3.0) | https://github.com/hidooch980/molidovpn-android
+[2026-09-18 13:31:44] | milan1rb/Masque-whatsapp | (无描述) | https://github.com/milan1rb/Masque-whatsapp
+[2026-09-18 13:31:44] | Diniboy1123/usque | Open-source reimplementation of the Cloudflare WARP client's MASQUE protocol. | https://github.com/Diniboy1123/usque
+[2026-09-18 13:31:44] | IHosseini083/aether-core-omarchy | An Omarchy status bar widget and popup panel for controlling the Aether tunnel — a userspace Cloudflare WARP client built by CluvexStudio for heavily censored networks. | https://github.com/IHosseini083/aether-core-omarchy
+[2026-09-18 13:31:44] | callacat/warp-go | Cloudflare WARP client (MASQUE over QUIC/HTTP-3) with SOCKS5 frontend — auto-sync upstream + CI build & GHCR publish | https://github.com/callacat/warp-go
+[2026-09-18 13:31:44] | CluvexStudio/Aether | A Rust userspace WARP core for censored networks, built around MASQUE over HTTP/3 and HTTP/2. | https://github.com/CluvexStudio/Aether
+[2026-09-18 13:31:44] | openziti/ziti | The parent project for OpenZiti. Here you will find the executables for a fully zero-trust, programmable network @OpenZiti | https://github.com/openziti/ziti
+[2026-09-18 13:31:44] | Rebaka8/zeroTrust | (无描述) | https://github.com/Rebaka8/zeroTrust
+[2026-09-18 13:31:44] | DRA3V50/ZeroTrust-Dashboard | Dynamic dashboard assessing enterprise Zero Trust posture and ISO 27001 compliance metrics using Python and SQL. | https://github.com/DRA3V50/ZeroTrust-Dashboard
+[2026-09-18 13:31:44] | RADINMNX2/MNX-GUARD | MNX GUARD — native Android VPN client (Aether Rust core, MASQUE/WireGuard/Tor/Xray/Psiphon) with network optimization. | https://github.com/RADINMNX2/MNX-GUARD
+[2026-09-18 13:31:44] | vcarus/volto | MASQUE proxy server (HTTP/3 CONNECT + CONNECT-UDP) in Rust, built to interoperate with Surge | https://github.com/vcarus/volto
+[2026-09-18 13:31:44] | SiennaCrofts/Masquerade | (无描述) | https://github.com/SiennaCrofts/Masquerade
+[2026-09-18 13:31:44] | wanwushequ/warp-masque-nav | WARP MASQUE 导航 | https://github.com/wanwushequ/warp-masque-nav
+[2026-09-18 13:31:44] | gamerenzz/warpscout-tools | (无描述) | https://github.com/gamerenzz/warpscout-tools
+[2026-09-18 13:31:44] | abapqlcm/AuroraVPN | AuroraVPN - Advanced Multi-Protocol VPN Client for Android (MASQUE/WireGuard/Gool) powered by Aether Core | https://github.com/abapqlcm/AuroraVPN
+[2026-09-18 13:31:44] | billofreviewtalon675/Aether | Bypass network censorship with an encrypted SOCKS5 proxy using automated route discovery and MASQUE protocols for restricted environments. | https://github.com/billofreviewtalon675/Aether
+[2026-09-18 13:31:44] | zenmod40/archiveproducts | Module PrestaShop pour filtrer les produits des catégories Archives du listing produit BO. Toggle 3 états (Masquer / Tout / Archives seules) + actions groupées. Compatible PS 1.7 / 8 / 9. Open source OSL-3.0. | https://github.com/zenmod40/archiveproducts
+[2026-09-18 13:31:44] | koteshwr-ra/linux-mac | Provide a custom Linux 7.0 kernel optimized for Mac Pro 6,1 with built-in Mac drivers, GPU firmware, and performance-focused features for seamless desktop use. | https://github.com/koteshwr-ra/linux-mac
+[2026-09-18 13:31:44] | hector561/linux-client | 🐧 Delivers a native GTK4 panel for autonomous system control on Linux using YOLOv8 for smart hardware management. | https://github.com/hector561/linux-client
+[2026-09-18 13:31:44] | SAP/dns-masquerading-operator | DNS masquerading for Kubernetes clusters | https://github.com/SAP/dns-masquerading-operator
+[2026-09-18 13:31:44] | brojangles24/Cloudflare-ZeroTrust-AdBlock | (无描述) | https://github.com/brojangles24/Cloudflare-ZeroTrust-AdBlock
+[2026-09-18 13:31:44] | mlmvpn/mlmvpn_android | Multi-engine Android VPN & network-scanning app — Xray, AmneziaWG, Aether (MASQUE/WG/WARP-in-WARP), VPN Gate, DNS/game-latency booster, and sanction-domain routing, built with Kotlin + Jetpack Compose. / اپلیکیشن اندروید VPN و اسکنر شبکه چندموتوره | https://github.com/mlmvpn/mlmvpn_android
+[2026-09-18 13:31:44] | Kyogoson/masquerade-game | (无描述) | https://github.com/Kyogoson/masquerade-game
+[2026-09-18 13:31:44] | jowch/Masque.jl | (无描述) | https://github.com/jowch/Masque.jl
+[2026-09-18 13:31:44] | GeorgeXie2333/usque-app | User-friendly cross-platform GUI for Cloudflare WARP client's MASQUE protocol. | https://github.com/GeorgeXie2333/usque-app
+[2026-09-18 13:31:44] | Wiuvel/masqr | MASQUE/WARP tunnel core for Windows with dynamic routing, built-in DNS, and DPI-resistant handshakes | https://github.com/Wiuvel/masqr
+[2026-09-18 13:31:44] | sinamp00/sina | 🛡️ فیلترشکن نسل نوین SinaVPN برای اندروید با رله‌های وارپ پلاس، تانل ماسک H2، پروتکل سینا-استیلث و ۹ تم نئونی | https://github.com/sinamp00/sina
+[2026-09-18 13:31:44] | Shadow-Dynamic-Systems-LLC/ZeroTrustGovernance | The official home of the Zero Trust Governance normative specification - 0.v.8 publishes soon with conformance measurements and  an almost complete deployment guide helping you maneuver the complex world of agentic security. | https://github.com/Shadow-Dynamic-Systems-LLC/ZeroTrustGovernance
+[2026-09-18 13:31:44] | TheBinaryNinja/masqueradarr | Aggregating scattered IPTV sources behind a single, trusted identity. Self-hosted IPTV aggregator: ingests M3U/EPG sources, proxies streams, and serves a management SPA + exportable playlists. | https://github.com/TheBinaryNinja/masqueradarr
+[2026-09-18 13:31:44] | ZeroTrustZein/ZeroTrustZein | Profile README | https://github.com/ZeroTrustZein/ZeroTrustZein
+[2026-09-18 13:31:44] | Bryan25prof/MasQueCiencia | Plataforma interactiva de Química para 10.º y 11.º año, alineada al programa del MEP Costa Rica. | https://github.com/Bryan25prof/MasQueCiencia
+[2026-09-18 13:31:44] | sagalto68/masquemagos | Web Laura magos | https://github.com/sagalto68/masquemagos
+[2026-09-18 13:31:44] | immaghzbad/AetherST | Advanced Multi-Protocol VPN Client for Android (MASQUE, WireGuard, Gool, Zero Trust) powered by Aether Core and HEV SOCKS5 engine. High performance, DPI circumvention, and modern UI. | https://github.com/immaghzbad/AetherST
+[2026-09-18 13:31:44] | peddireddyrohith/zerotrust-x | (无描述) | https://github.com/peddireddyrohith/zerotrust-x
+[2026-09-18 13:31:44] | openziti/sdk-golang | Ziti SDK for Golang | https://github.com/openziti/sdk-golang
+[2026-09-18 13:31:44] | Kotambail-Hegde/Masquerade-Source | This repository holds the source code for masquerade emulator | https://github.com/Kotambail-Hegde/Masquerade-Source
+[2026-09-18 13:31:44] | Kotambail-Hegde/Masquerade-Emulator | A multi-system emulator | https://github.com/Kotambail-Hegde/Masquerade-Emulator
+[2026-09-18 13:31:44] | ElwinErnst/zerotrust-api | (无描述) | https://github.com/ElwinErnst/zerotrust-api
+[2026-09-18 13:31:44] | woshidadi2026/new-usque-custom-pro | (无描述) | https://github.com/woshidadi2026/new-usque-custom-pro
+[2026-09-18 13:31:44] | ElwinErnst/sytadel-suite | Meta-repo de Sentinel Suite: docker-compose, smoke tests, sentinel-app (Next) + sentinel-web (Astro) y submódulos auth-api, zerotrust-api, securechain-vault, billing-api. | https://github.com/ElwinErnst/sytadel-suite
+[2026-09-18 13:31:44] | openziti/ziti-sdk-c | A C-based sdk for delivering secure applications over a Ziti Network | https://github.com/openziti/ziti-sdk-c
+[2026-09-18 13:31:44] | openziti/ziti-tunnel-sdk-c | (无描述) | https://github.com/openziti/ziti-tunnel-sdk-c
+[2026-09-18 13:31:44] | ehadsagency-ai/github-actions-forensic-agent | 🔍 Agent d'analyse forensique avancé pour GitHub Actions - Détecte les échecs masqués et vulnérabilités de sécurité | https://github.com/ehadsagency-ai/github-actions-forensic-agent
+[2026-09-18 13:31:44] | SAP/dns-masquerading-operator-cop | Component operator (usable with Kyma) for https://github.com/sap/dns-masquerading-operator | https://github.com/SAP/dns-masquerading-operator-cop
+[2026-09-18 13:31:44] | vedashreemr72-ctrl/Zerotrustnet2 | (无描述) | https://github.com/vedashreemr72-ctrl/Zerotrustnet2
+[2026-09-18 13:31:44] | microsoft/zerotrustassessment | Repository for the Zero Trust Assessment project | https://github.com/microsoft/zerotrustassessment
+[2026-09-18 13:31:44] | songjiekris-dev/usque-custom-pro-t | (无描述) | https://github.com/songjiekris-dev/usque-custom-pro-t
+[2026-09-18 13:31:44] | songjiekris-dev/usque-custom-pro | (无描述) | https://github.com/songjiekris-dev/usque-custom-pro
+[2026-09-18 13:31:44] | subhisha11/ZeroTrustTwin | (无描述) | https://github.com/subhisha11/ZeroTrustTwin
+[2026-09-18 13:31:44] | Lemon4ksan/aoni | ❄️ Ultra-fast unified internet protocol stack for Go | https://github.com/Lemon4ksan/aoni
+[2026-09-18 13:31:44] | AJAR71/zerotrust | 🔒 Build verifiable peer-to-peer applications with a zero-trust cryptographic protocol framework that ensures complete security without requiring trust in users. | https://github.com/AJAR71/zerotrust
+[2026-09-18 13:31:44] | DenMc55/Warp-TV-Ultra | TV-focused Cloudflare WARP MASQUE for Android TV devices, | https://github.com/DenMc55/Warp-TV-Ultra
+[2026-09-18 13:31:44] | Omarchy71/luci-app-aether | LuCI app + opkg package: Aether core (MASQUE/WireGuard/gool) with full-system TUN and Iran direct-routing for OpenWrt routers | https://github.com/Omarchy71/luci-app-aether
+[2026-09-18 13:31:44] | stupside/moley | Share a local app on your own domain in one command. | https://github.com/stupside/moley
+[2026-09-18 13:31:44] | side-effect-tm/usque-keenetic | Unofficial Cloudflare WARP client for Keenetic routers | https://github.com/side-effect-tm/usque-keenetic
+[2026-09-18 13:31:44] | Vincent-bin/masque-server | High-performance MASQUE proxy server for CONNECT, CONNECT-UDP, and CONNECT-IP over HTTP/3 | https://github.com/Vincent-bin/masque-server
+[2026-09-18 13:31:44] | smshagor-dev/ZeroTrust-FL-Sim | (无描述) | https://github.com/smshagor-dev/ZeroTrust-FL-Sim
+[2026-09-18 13:31:44] | Mehrdad-esn/AetherST-Windows | AetherST Tunnel for Windows v1.7 — community port of PowerSigma AetherST (MASQUE/WireGuard/Gool, Psiphon chain, OpenVPN Hybrid) with native MSI installer | https://github.com/Mehrdad-esn/AetherST-Windows
+[2026-09-18 13:31:44] | CircaFrax/CodexPrisme | CodexPrisme v1.0.0 - Convertisseur universel 100% offline. CircaFrax - Astra | https://github.com/CircaFrax/CodexPrisme
+[2026-09-18 13:31:44] | fishtre-compagnie/husonym | Husonym est un outil d'anonymisation de données personnelles conforme au RGPD, conçu pour détecter, masquer et pseudonymiser les données sensibles dans vos bases de données et fichiers . | https://github.com/fishtre-compagnie/husonym
+[2026-09-18 13:31:44] | MASQUERADE-PARTY/MASQUERADE-PARTY | (无描述) | https://github.com/MASQUERADE-PARTY/MASQUERADE-PARTY
+[2026-09-18 13:31:44] | DenMc55/Warp-Go-TV-Masque | TV-focused Cloudflare WARP client with MASQUE | https://github.com/DenMc55/Warp-Go-TV-Masque
+[2026-09-18 13:31:44] | otomata-tech/slider | Atelier decks PPTX+PDF — charte client + bibliothèque de masques. Skill Claude Code. | https://github.com/otomata-tech/slider
+[2026-09-18 13:31:44] | kainatzahraalvisial/AutoPolicy-ZeroTrust-IoT | AutoPolicy: Anomaly Detection + Automated Zero-Trust Policy Generation for Resource-Constrained IoT Networks using Zeek, Hybrid ML, GNN, Transformer & OPA. | https://github.com/kainatzahraalvisial/AutoPolicy-ZeroTrust-IoT
+[2026-09-18 13:31:44] | Yangxiamao/masque-detection | (无描述) | https://github.com/Yangxiamao/masque-detection
+[2026-09-18 13:31:44] | Helix-Synergy/ZeroTrust | (无描述) | https://github.com/Helix-Synergy/ZeroTrust
+[2026-09-18 13:31:44] | masquepildoraspodcast-lab/masquepildoras-web | (无描述) | https://github.com/masquepildoraspodcast-lab/masquepildoras-web
+[2026-09-18 13:31:44] | nachocuenca/masqueclima | Web Multi-Idioma PHP | https://github.com/nachocuenca/masqueclima
+[2026-09-18 13:31:44] | whyharsh01/ZeroTrustSecurity | (无描述) | https://github.com/whyharsh01/ZeroTrustSecurity
+[2026-09-18 13:31:44] | vohkts/ha-zerotrust-lan-advisor | Home Assistant add-on: passive firewall/flow log analysis with LLM-assisted zero-trust rule recommendations | https://github.com/vohkts/ha-zerotrust-lan-advisor
+[2026-09-18 13:31:44] | Sahilmore469/AgentIQ-ZeroTrust-SOC | An enterprise-grade Zero-Trust SOC Dashboard and AI Agent. Built for the TransOrg Datathon, this project features an automated data rescue pipeline, multi-vector risk scoring, cross-system log correlation, and a Llama-3 powered Text-to-Chart AI. | https://github.com/Sahilmore469/AgentIQ-ZeroTrust-SOC
+[2026-09-18 13:31:44] | Next1971/masque-vpn | Self-hosted VPN over HTTP/3 (MASQUE CONNECT-IP). Your VPS, your clients, mTLS. Android, Android TV, and Windows. | https://github.com/Next1971/masque-vpn
+[2026-09-18 13:31:44] | Diniboy1123/usque-rs | A decently fast, native tunnel using Cloudflare WARP and its MASQUE-based protocol for Linux. Built on top of Cloudflare's quiche library. | https://github.com/Diniboy1123/usque-rs
+[2026-09-18 13:31:44] | oivoodoo/devise_masquerade | Extension for devise, enable login as functionality. Add link to the masquerade_path(resource) and use it. | https://github.com/oivoodoo/devise_masquerade
+[2026-09-18 13:31:44] | Deekshith06/zerotrust-x | Deterministic multi-source security telemetry foundation and SOC operations platform | https://github.com/Deekshith06/zerotrust-x
+[2026-09-18 13:31:44] | hanumanthvendra/k8s-multicluster-zerotrust | Multi-cluster zero-trust networking with Cilium Cluster Mesh — identity, not IP. | https://github.com/hanumanthvendra/k8s-multicluster-zerotrust
+[2026-09-18 13:31:44] | JimmyBenard/VeilaPaint | Veila Paint est une application artistique tablette-first de redessin progressif. Chaque projet superpose plusieurs étapes d’une œuvre : en redessinant au stylet, l’utilisateur dévoile progressivement les calques grâce à un masque de transparence, tout en naviguant par gestes tactiles. | https://github.com/JimmyBenard/VeilaPaint
+[2026-09-18 13:31:44] | chenboyueh/winter-masquerade-prizepool | (无描述) | https://github.com/chenboyueh/winter-masquerade-prizepool
+[2026-09-18 13:31:44] | Devtahas/RedCloud-windows | Next-Gen Anti-Censorship Client for Windows (Flutter & Rust). Features Hybrid MASQUE H3, Sing-box 1.13, Hysteria 2, VLESS Reality, TUN Mode & Cloudflare Scanner. | https://github.com/Devtahas/RedCloud-windows
+[2026-09-18 13:31:44] | mohamedzh4/SAFE-debruitage-echographies-mammaires | Débruitage d'échographies mammaires : SAFE V3 fusionne Gaussien et SRAD avec un masque flou / coefficient de variation. Démo Streamlit et métriques cliniques (PSNR, SSIM, ENL, CNR, EPI). | https://github.com/mohamedzh4/SAFE-debruitage-echographies-mammaires
+[2026-09-18 13:31:44] | lusdesena/homelab-network-zerotrust | Zero-Trust remote access to an on-prem homelab via WireGuard hub-and-spoke over a hardened VPS - no open ports | https://github.com/lusdesena/homelab-network-zerotrust
+[2026-09-18 13:31:44] | juerson/cfwarp-converter | cfwarp转换工具集，将 Cloudflare WARP 官方的 WireGuard 和 Masque 协议接口转换到第三方代理软件中使用，覆盖xray、sing-box、mihomo（clash.meta）三大内核；Masque协议，只支持mihomo（clash.meta）内核使用。 | https://github.com/juerson/cfwarp-converter
+[2026-09-18 13:31:44] | Jaliborc/Bagnon-Masque | Allows Masque to skin Bagnon windows | https://github.com/Jaliborc/Bagnon-Masque
+[2026-09-18 13:31:44] | denis-bouis/masque-photos | (无描述) | https://github.com/denis-bouis/masque-photos
+[2026-09-18 13:31:44] | persianray/usque-psiphon-usque-xray-ios | (无描述) | https://github.com/persianray/usque-psiphon-usque-xray-ios
+[2026-09-18 13:31:44] | LAB-INF0/Firefox_cidr-subnet-inspector | Extension Firefox - Affiche le calcul d'un sous-réseau (réseau, broadcast, plage, masque) au survol ou via le menu contextuel sur toute notation CIDR présente dans une page. | https://github.com/LAB-INF0/Firefox_cidr-subnet-inspector
+[2026-09-18 13:31:44] | sanju722002/ZeroTrustCloud- | (无描述) | https://github.com/sanju722002/ZeroTrustCloud-
+[2026-09-18 13:31:44] | bairegowda1003/ZeroTrustCloud-Identity-Centric-Zero-Trust-Architecture | (无描述) | https://github.com/bairegowda1003/ZeroTrustCloud-Identity-Centric-Zero-Trust-Architecture
+[2026-09-18 13:31:44] | al0ni/MASQUERADE_AND_MOON | (无描述) | https://github.com/al0ni/MASQUERADE_AND_MOON
+[2026-09-18 13:31:44] | Fuzss/village-masquerade | Dress like a villager, trade like a pro, and look fabulous doing it. | https://github.com/Fuzss/village-masquerade
+[2026-09-18 13:31:44] | Shaashlik08/MASQUERADE_MOON_Assigment1 | (无描述) | https://github.com/Shaashlik08/MASQUERADE_MOON_Assigment1
+[2026-09-18 13:31:44] | SAP/dns-masquerading-operator-helm | Helm chart for https://github.com/sap/dns-masquerading-operator | https://github.com/SAP/dns-masquerading-operator-helm
+[2026-09-18 13:31:44] | kuboon/masquerade-meet | (无描述) | https://github.com/kuboon/masquerade-meet
+[2026-09-18 13:31:44] | SKBCloudX/zerotrust-pep-java | Spring Cloud Gateway filter that authorizes every request against an external decision point and fails closed. Published to Maven Central as com.skbroadband:zerotrust-pep-spring-boot-starter. | https://github.com/SKBCloudX/zerotrust-pep-java
+[2026-09-18 13:31:44] | rnandresy/askip | Le réseau social des rumeurs du campus, sur Android : rumeurs notées crédible ou bidon, réputation, masques anonymes, missions, messagerie. Kotlin, Compose, Firebase. | https://github.com/rnandresy/askip
+[2026-09-18 13:31:44] | milyes/NetSecurePro-IA-ZeroTrust-Native | (无描述) | https://github.com/milyes/NetSecurePro-IA-ZeroTrust-Native
+[2026-09-18 13:31:44] | na-tamim00/gatekeeper-zerotrust-proxy | High-performance zero-trust network overlay enforcing mutual TLS (mTLS) 1.3, dynamic SPIFFE/SPIRE cryptographic identities, and granular egress authorization. | https://github.com/na-tamim00/gatekeeper-zerotrust-proxy
+[2026-09-18 13:31:44] | ArtixSx/RAZVILKA | Локальная панель управления обходами и маршрутами для Keenetic/Netcraze с Entware | https://github.com/ArtixSx/RAZVILKA
+[2026-09-18 13:31:44] | S-saud/zerotrust-istio | Production-grade reference implementation for Zero-Trust Kubernetes networking featuring Istio mTLS, least-privilege authorization policies, and canary routing. | https://github.com/S-saud/zerotrust-istio
+[2026-09-18 13:31:44] | SamimNaser/ZerotrustSentinel | An autonomous security agent that continuously discovers, assesses, and helps harden Internet-facing servers. | https://github.com/SamimNaser/ZerotrustSentinel
+[2026-09-18 13:31:44] | velnox4827/saman-aether | Standalone Android frontend for Aether Core with local SOCKS5, MASQUE, WireGuard and GOOL. | https://github.com/velnox4827/saman-aether
+[2026-09-18 13:31:44] | avtomatika-ai/avtomatika-worker | Official Python SDK for building workers and IoT devices compatible with the Avtomatika   orchestrator. Automates polling, S3 payload offloading, and heartbeats. | https://github.com/avtomatika-ai/avtomatika-worker
+[2026-09-18 13:31:44] | HithaishiSP2004/ZeroTrustCloud-A-Zero-Trust-Architecture-Framework | (无描述) | https://github.com/HithaishiSP2004/ZeroTrustCloud-A-Zero-Trust-Architecture-Framework
+[2026-09-18 13:31:44] | nhubaotruong/usque-proxy | (无描述) | https://github.com/nhubaotruong/usque-proxy
+[2026-09-18 13:31:44] | kapibara30/zta_repo | Test Repository for ZeroTrust | https://github.com/kapibara30/zta_repo
+[2026-09-18 13:31:44] | agglabs/ZeroTrust-Public | Source Code of the ZeroTrust Public (Most Updated Version) | https://github.com/agglabs/ZeroTrust-Public
+[2026-09-18 13:31:44] | FreeFades2Black/enterprise-multicloud-gitops-zerotrust | (无描述) | https://github.com/FreeFades2Black/enterprise-multicloud-gitops-zerotrust
+[2026-09-18 13:31:44] | ronankongala/zerotrust-lab | Local zero trust test bed: 3 microservices behind an enforcing gateway that clears 4 independent layers before reaching upstream, mutual TLS, Keycloak OIDC, an Open Policy Agent decision, and a short-lived Vault credential. 2 mock SAML providers for federated SSO. verify.sh re-runs every check in one pass. | https://github.com/ronankongala/zerotrust-lab
+[2026-09-18 13:31:44] | avtomatika-ai/avtomatika | High-performance state-machine based orchestrator for managing complex AI agents and   asynchronous workflows. Separates process logic (Blueprints) from execution (Workers). | https://github.com/avtomatika-ai/avtomatika
+[2026-09-18 13:31:44] | ircfspace/masque-plus | A simple Go launcher for usque that handles registration, configuration, and running a SOCKS proxy. Designed for Cloudflare MASQUE protocol usage. | https://github.com/ircfspace/masque-plus
+[2026-09-18 13:31:44] | gawasanehimanshu/ZeroTrustGateway | (无描述) | https://github.com/gawasanehimanshu/ZeroTrustGateway
+[2026-09-18 13:31:44] | madgagarin/RXON | Lightweight reverse-connection (RXON) protocol for distributed systems. Supports universal resource telemetry (AI/Robotics/IoT) and strictly typed skill contracts. Works behind NAT/firewalls. | https://github.com/madgagarin/RXON
+[2026-09-18 13:31:44] | HynoR/uscf | A third-party SOCKS5 proxy for Cloudflare WARP via the MASQUE/WireGuard protocol, based on usque. | https://github.com/HynoR/uscf
+[2026-09-18 13:31:44] | florient2016/ROSA-OvnKubernetes-zerotrust-egress | (无描述) | https://github.com/florient2016/ROSA-OvnKubernetes-zerotrust-egress
+[2026-09-18 13:31:44] | sreenayaneadha/cloudflare-zerotrust-lab | A Zero Trust security deployment securing a static web environment using Cloudflare Access and Role-Based Access Control. | https://github.com/sreenayaneadha/cloudflare-zerotrust-lab
+[2026-09-18 13:31:44] | pbcsers-cu/BioHybrid-ZeroTrust | The threat injection framework and HIL simulation scripts | https://github.com/pbcsers-cu/BioHybrid-ZeroTrust
+[2026-09-18 13:31:44] | code-with-amitk/ZeroTrustForwardProxy | Production-oriented forward proxy: HTTP + HTTPS interception (MITM), identity-aware policy enforcement, basic DLP inspection, JSON audit logs, and Prometheus metrics | https://github.com/code-with-amitk/ZeroTrustForwardProxy
+[2026-09-18 13:31:44] | shruti-khanal/ZeroTrust---AI- | AI based dynamic access risk analyser | https://github.com/shruti-khanal/ZeroTrust---AI-
+[2026-09-18 13:31:44] | 5h4d0wn1k/zerotrustmirror | Zero-trust readiness & correlation engine - ZTA pillar scoring with evidence, multichannel correlation. | https://github.com/5h4d0wn1k/zerotrustmirror
+[2026-09-18 13:31:44] | Zevenuscodes/Zerotrust | (无描述) | https://github.com/Zevenuscodes/Zerotrust
+[2026-09-18 13:31:44] | openziti/ziti-sdk-csharp | An C#-based SDK to access Ziti | https://github.com/openziti/ziti-sdk-csharp
+[2026-09-18 13:31:44] | vampywiz17/usque-rs-bsd | (无描述) | https://github.com/vampywiz17/usque-rs-bsd
+[2026-09-18 13:31:44] | zerotrustph/zerotrustph | IT professional portfolio focused on System Administration, Networking, Homelab projects, and CCNA studies. | https://github.com/zerotrustph/zerotrustph
+[2026-09-18 13:31:44] | 8DE4732A/usque-android | (无描述) | https://github.com/8DE4732A/usque-android
+[2026-09-18 13:31:44] | ASTHA80/zerotrustgateway | (无描述) | https://github.com/ASTHA80/zerotrustgateway
+[2026-09-18 13:31:44] | garthnet/usque-android-app | (无描述) | https://github.com/garthnet/usque-android-app
+[2026-09-18 13:31:44] | AbinashReddy-00/ZeroTrust-VIP | (无描述) | https://github.com/AbinashReddy-00/ZeroTrust-VIP
+[2026-09-18 13:31:44] | ejajmahmud/fido2-webauthn-zerotrust-sso-gateway-nestjs-webauthn-sso-gateway-v2026-b69 | FIDO2 / WebAuthn Enterprise Zero-Trust Single Sign-On Gateway enterprise system built with TypeScript / NestJS & Fastify FIDO2 WebAuthn Zero-Trust Gateway (Source: GitLab Security Group (gitlab.com/nestjs-security/webauthn-sso-gateway)) | https://github.com/ejajmahmud/fido2-webauthn-zerotrust-sso-gateway-nestjs-webauthn-sso-gateway-v2026-b69
+[2026-09-18 13:31:44] | Harshit-Gupta64/zerotrust | (无描述) | https://github.com/Harshit-Gupta64/zerotrust
+[2026-09-18 13:31:44] | iK3sI3hG6d/usque-custom | usque-custom | https://github.com/iK3sI3hG6d/usque-custom
+[2026-09-18 13:31:44] | wanwushequ/usque-up | (无描述) | https://github.com/wanwushequ/usque-up
+[2026-09-18 13:31:44] | KxK3lv1n/usque-shadowrocket-clashmi-converter | (无描述) | https://github.com/KxK3lv1n/usque-shadowrocket-clashmi-converter
+[2026-09-18 13:31:44] | Kamanreza/AetherST-Windows | Advanced Multi-Protocol VPN Client for Windows (MASQUE, WireGuard, Gool, Zero Trust) - Python Desktop Implementation | https://github.com/Kamanreza/AetherST-Windows
+[2026-09-18 13:31:44] | vomw/Diniboy1123-usque-rs | (无描述) | https://github.com/vomw/Diniboy1123-usque-rs
+[2026-09-18 13:31:44] | najishab/Aether | Fast, privacy-first Android & Android TV VPN client powered by the Aether engine. Defeats DPI censorship using Smart routing, MASQUE (H2/H3), WireGuard, and Gool with anti-censorship obfuscation and built-in WARP endpoint scanner. No logs, no ads. | https://github.com/najishab/Aether
+[2026-09-18 13:31:44] | hand-stacker/USQuery | USQuery is a web application designed to provide users with easy access to congressional data, including bills and votes. | https://github.com/hand-stacker/USQuery
+[2026-09-18 13:31:44] | jerbehe/usque-admin | 在设备上部署 Cloudflar warp 代理池 | https://github.com/jerbehe/usque-admin
+[2026-09-18 13:31:44] | justinwoo280/usquebox | (无描述) | https://github.com/justinwoo280/usquebox
+[2026-09-18 13:31:44] | hand-stacker/USQueryMobile | Code for a react native mobile application. | https://github.com/hand-stacker/USQueryMobile
+[2026-09-18 13:31:44] | BloodWolfik/warpscout-GUI | (无描述) | https://github.com/BloodWolfik/warpscout-GUI
+[2026-09-18 13:31:44] | vampywiz17/os-usque-repo | Signed FreeBSD pkg repository for os-usque on OPNsense | https://github.com/vampywiz17/os-usque-repo
+[2026-09-18 13:31:44] | spr-networks/spr-usque | Linux-native Cloudflare WARP forwarding gateway plugin for SPR | https://github.com/spr-networks/spr-usque
+[2026-09-18 13:31:44] | vampywiz17/os-usque | (无描述) | https://github.com/vampywiz17/os-usque
+[2026-09-18 13:31:44] | justinwoo280/usque | (无描述) | https://github.com/justinwoo280/usque
+[2026-09-18 13:31:44] | SuperNG6/docker-usque | Open-source reimplementation of the Cloudflare WARP client's MASQUE protocol. | https://github.com/SuperNG6/docker-usque
+[2026-09-18 13:31:44] | exxojay/usque-android-app-ru-test | (无描述) | https://github.com/exxojay/usque-android-app-ru-test
+[2026-09-18 13:31:44] | wddxg/usque-openwrt-mipsle-softfloat | Usque soft-float build for MIPSLE OpenWrt | https://github.com/wddxg/usque-openwrt-mipsle-softfloat
+[2026-09-18 13:31:44] | Animeblin1/usquedash | WARP (usque/MASQUE) + ByeDPI + веб-дашборд для OpenWrt-роутеров. Установка одной командой, импорт Clash-конфига с warp-gen.github.io | https://github.com/Animeblin1/usquedash
+[2026-09-18 13:31:44] | Alukard-X/usque-openwrt | (无描述) | https://github.com/Alukard-X/usque-openwrt
+[2026-09-18 13:31:44] | vomw/Diniboy1123-usque | (无描述) | https://github.com/vomw/Diniboy1123-usque
+[2026-09-18 13:31:44] | masx200/usque-android | https://github.com/Abobo7/usque-android | https://github.com/masx200/usque-android
+[2026-09-18 13:31:44] | Alukard-X/usque-keenetic | Usque Auto-Installer for Keenetic | https://github.com/Alukard-X/usque-keenetic
+[2026-09-18 13:31:44] | lengyuesky/usque-auto | 使用 usque nativetun 接管 Linux 出站流量，保留原入站出口并支持纯 IPv6 | https://github.com/lengyuesky/usque-auto
+[2026-09-18 13:31:44] | obrige/usque | (无描述) | https://github.com/obrige/usque
+[2026-09-18 13:31:44] | akumaginkou/warp-proxy | Clean-room Rust client for Cloudflare WARP over MASQUE (CONNECT-IP): registration, HTTP/3 tunnel, smoltcp netstack, SOCKS5 proxy. Portable, no usque. | https://github.com/akumaginkou/warp-proxy
+[2026-09-18 13:31:44] | zhyyai/v2rayN-cli-cores | v2rayN fork with EasyTier / usque / NetBird as custom cores | https://github.com/zhyyai/v2rayN-cli-cores
+[2026-09-18 13:31:44] | Angels-Ray/usque_pool_release | (无描述) | https://github.com/Angels-Ray/usque_pool_release
+[2026-09-18 13:31:44] | ChickenIQ/usque-router | (无描述) | https://github.com/ChickenIQ/usque-router
+[2026-09-18 13:31:44] | Joseph-ink/usque-easy | 一键启用Warp ，使用 Usque 项目第三方 Masque 协议实现。支持IPv6 only 机型。 | https://github.com/Joseph-ink/usque-easy
+[2026-09-18 13:31:44] | narinishi/platypus-vortex | Demonstration of Warp serving with Java. Suggest to generate config with usque, then run with --provider warp --warp true | https://github.com/narinishi/platypus-vortex
+[2026-09-18 13:31:44] | 9bingyin/usque-rs | (无描述) | https://github.com/9bingyin/usque-rs
+[2026-09-18 13:31:44] | Skiro1/warp-masque-tun | Утилита для запуска Cloudflare WARP (MASQUE) через usque с опциональным TUN-прокси через sing-box. | https://github.com/Skiro1/warp-masque-tun
+[2026-09-18 13:31:44] | SAMYJ1/usque-warp-socks | (无描述) | https://github.com/SAMYJ1/usque-warp-socks
+[2026-09-18 13:31:44] | sidhantr30/usquest | Explore the 50 states — geography, history, quizzes. Sibling app to GlobeQuest. | https://github.com/sidhantr30/usquest
+[2026-09-18 13:31:44] | zv201413/usque-CF-Zero-Trust | (无描述) | https://github.com/zv201413/usque-CF-Zero-Trust
+[2026-09-18 13:31:44] | usquen101/usquen101.githup.io | (无描述) | https://github.com/usquen101/usquen101.githup.io
+[2026-09-18 13:31:44] | masx200/usque | https://github.com/Diniboy1123/usque | https://github.com/masx200/usque
+[2026-09-18 13:31:44] | masx200/warp-usque-windows-guide | warp-usque-windows-guide | https://github.com/masx200/warp-usque-windows-guide
+[2026-09-18 13:31:44] | masx200/warp-usque-windows-guide-http2 | (无描述) | https://github.com/masx200/warp-usque-windows-guide-http2
+[2026-09-18 13:31:44] | masx200/usque-wiki | https://github.com/Diniboy1123/usque.wiki.git | https://github.com/masx200/usque-wiki
+[2026-09-18 13:31:44] | jorgesoobrinho/repo-1759133530909-7 | Repository #7: Crur clam usque cauda delectus sustineo ipsam dens arto arto. | https://github.com/jorgesoobrinho/repo-1759133530909-7
+[2026-09-18 13:31:44] | hand-stacker/USQuery_Vote_Model | This is a repo of some of the notebooks, files, data, and models I have trained. | https://github.com/hand-stacker/USQuery_Vote_Model
+[2026-09-18 13:31:44] | npnaw/usque-wrapper | (无描述) | https://github.com/npnaw/usque-wrapper
+[2026-09-18 13:31:44] | tazdev-ops/gnasque | One-click MASQUE-in-MASQUE (outer usque + sing-box TUN + inner usque) with a minimal GUI | https://github.com/tazdev-ops/gnasque
+[2026-09-18 13:31:44] | 9bingyin/usque-docker | (无描述) | https://github.com/9bingyin/usque-docker
+[2026-09-18 13:31:44] | Exclorn/usque-launcher | (无描述) | https://github.com/Exclorn/usque-launcher
+[2026-09-18 13:31:44] | curseforge-mirror/masque-sonata | Mirror of Sonaza's Masque: Sonata. | https://github.com/curseforge-mirror/masque-sonata
