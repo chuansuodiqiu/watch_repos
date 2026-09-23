@@ -2,8 +2,8 @@
 
 > 关键词: `warp masque` / `zerotrust masque` / `usque` / `aether masque` / `WarpScout`  
 > 排序: 按项目创建时间（从早到晚）  
-> 最后更新: 2026-09-22 02:24:37 UTC  
-> 共 124 个项目
+> 最后更新: 2026-09-23 02:24:51 UTC  
+> 共 125 个项目
 
 | # | 创建时间 | 项目名 | Star | 项目介绍 | 链接 |
 | ---: | --- | --- | ---: | --- | --- |
@@ -131,3 +131,4 @@
 | 122 | 2026-09-17 | songjiekris-dev/usque-custom-pro | 0 | (无描述) | [点击查看](https://github.com/songjiekris-dev/usque-custom-pro) |
 | 123 | 2026-09-17 | RADINMNX2/MNX-GUARD | 0 | MNX GUARD — native Android VPN client (Aether Rust core, MASQUE/WireGuard/Tor/Xray/Psiphon) with network optimization. | [点击查看](https://github.com/RADINMNX2/MNX-GUARD) |
 | 124 | 2026-09-19 | woshidadi2026/new-warp-masque-actions | 0 | (无描述) | [点击查看](https://github.com/woshidadi2026/new-warp-masque-actions) |
+| 125 | 2026-09-22 | shitangzeng-eng/usque-custom-pro555 | 0 | (无描述) | [点击查看](https://github.com/shitangzeng-eng/usque-custom-pro555) |
