@@ -2,8 +2,8 @@
 
 > 关键词: `warp masque` / `zerotrust masque` / `usque` / `aether masque` / `WarpScout`  
 > 排序: 按项目创建时间（从早到晚）  
-> 最后更新: 2026-09-23 02:24:51 UTC  
-> 共 125 个项目
+> 最后更新: 2026-09-24 02:13:43 UTC  
+> 共 126 个项目
 
 | # | 创建时间 | 项目名 | Star | 项目介绍 | 链接 |
 | ---: | --- | --- | ---: | --- | --- |
@@ -132,3 +132,4 @@
 | 123 | 2026-09-17 | RADINMNX2/MNX-GUARD | 0 | MNX GUARD — native Android VPN client (Aether Rust core, MASQUE/WireGuard/Tor/Xray/Psiphon) with network optimization. | [点击查看](https://github.com/RADINMNX2/MNX-GUARD) |
 | 124 | 2026-09-19 | woshidadi2026/new-warp-masque-actions | 0 | (无描述) | [点击查看](https://github.com/woshidadi2026/new-warp-masque-actions) |
 | 125 | 2026-09-22 | shitangzeng-eng/usque-custom-pro555 | 0 | (无描述) | [点击查看](https://github.com/shitangzeng-eng/usque-custom-pro555) |
+| 126 | 2026-09-23 | xztsummer/warp-gemini-unlock | 1 | VPS 上的 Google / Gemini 精准 WARP 分流解锁：Cloudflare 官方客户端 MASQUE 本地 SOCKS5 代理 + sing-box 域名分流，四项严格验收、改动前备份、失败自动回滚，已在 Ubuntu 24.04 + sing-box-yg 环境实测。 | [点击查看](https://github.com/xztsummer/warp-gemini-unlock) |
