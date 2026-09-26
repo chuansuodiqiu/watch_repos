@@ -2,8 +2,8 @@
 
 > 关键词: `warp masque` / `zerotrust masque` / `usque` / `aether masque` / `WarpScout`  
 > 排序: 按项目创建时间（从早到晚）  
-> 最后更新: 2026-09-25 02:30:12 UTC  
-> 共 126 个项目
+> 最后更新: 2026-09-26 02:32:58 UTC  
+> 共 128 个项目
 
 | # | 创建时间 | 项目名 | Star | 项目介绍 | 链接 |
 | ---: | --- | --- | ---: | --- | --- |
@@ -133,3 +133,5 @@
 | 124 | 2026-09-19 | woshidadi2026/new-warp-masque-actions | 0 | (无描述) | [点击查看](https://github.com/woshidadi2026/new-warp-masque-actions) |
 | 125 | 2026-09-22 | shitangzeng-eng/usque-custom-pro555 | 0 | (无描述) | [点击查看](https://github.com/shitangzeng-eng/usque-custom-pro555) |
 | 126 | 2026-09-23 | xztsummer/warp-gemini-unlock | 1 | VPS 上的 Google / Gemini 精准 WARP 分流解锁：Cloudflare 官方客户端 MASQUE 本地 SOCKS5 代理 + sing-box 域名分流，四项严格验收、改动前备份、失败自动回滚，已在 Ubuntu 24.04 + sing-box-yg 环境实测。 | [点击查看](https://github.com/xztsummer/warp-gemini-unlock) |
+| 127 | 2026-09-24 | feg55/Zarp | 1 | ne-click Cloudflare WARP unblocker using zapret2. Automatically finds working DPI bypass strategies for Windows and Android | [点击查看](https://github.com/feg55/Zarp) |
+| 128 | 2026-09-24 | feg55/Zarp-Android | 1 | One-tap Cloudflare WARP for Android with automatic DPI bypass strategies. No root and no WARP app required. | [点击查看](https://github.com/feg55/Zarp-Android) |
