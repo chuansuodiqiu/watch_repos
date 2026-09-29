@@ -2,8 +2,8 @@
 
 > 关键词: `warp masque` / `zerotrust masque` / `usque` / `aether masque` / `WarpScout`  
 > 排序: 按项目创建时间（从早到晚）  
-> 最后更新: 2026-09-28 02:34:17 UTC  
-> 共 131 个项目
+> 最后更新: 2026-09-29 03:16:56 UTC  
+> 共 133 个项目
 
 | # | 创建时间 | 项目名 | Star | 项目介绍 | 链接 |
 | ---: | --- | --- | ---: | --- | --- |
@@ -101,40 +101,42 @@
 | 92 | 2026-08-23 | najishab/Aether | 1 | Fast, privacy-first Android & Android TV VPN client powered by the Aether engine. Defeats DPI censorship using Smart routing, MASQUE (H2/H3), WireGuard, and Gool with anti-censorship obfuscation and built-in WARP endpoint scanner. No logs, no ads. | [点击查看](https://github.com/najishab/Aether) |
 | 93 | 2026-08-25 | BloodWolfik/warpscout-GUI | 0 | (无描述) | [点击查看](https://github.com/BloodWolfik/warpscout-GUI) |
 | 94 | 2026-08-31 | wanwushequ/usque-up | 0 | (无描述) | [点击查看](https://github.com/wanwushequ/usque-up) |
-| 95 | 2026-09-03 | gamerenzz/warpscout-tools | 0 | (无描述) | [点击查看](https://github.com/gamerenzz/warpscout-tools) |
-| 96 | 2026-09-04 | KJGX66F/usque-custom-pro | 1307 | 基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。 | [点击查看](https://github.com/KJGX66F/usque-custom-pro) |
-| 97 | 2026-09-04 | byJoey/warp-masque-actions | 943 | GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact | [点击查看](https://github.com/byJoey/warp-masque-actions) |
-| 98 | 2026-09-05 | ZSWWaite/warp-actions | 0 | GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact | [点击查看](https://github.com/ZSWWaite/warp-actions) |
-| 99 | 2026-09-05 | Lin00700/.github-workflows-warp-masque.yml | 0 | (无描述) | [点击查看](https://github.com/Lin00700/.github-workflows-warp-masque.yml) |
-| 100 | 2026-09-05 | vomw/Diniboy1123-usque-rs | 0 | (无描述) | [点击查看](https://github.com/vomw/Diniboy1123-usque-rs) |
-| 101 | 2026-09-05 | abapqlcm/AuroraVPN | 0 | AuroraVPN - Advanced Multi-Protocol VPN Client for Android (MASQUE/WireGuard/Gool) powered by Aether Core | [点击查看](https://github.com/abapqlcm/AuroraVPN) |
-| 102 | 2026-09-06 | Kamanreza/AetherST-Windows | 0 | Advanced Multi-Protocol VPN Client for Windows (MASQUE, WireGuard, Gool, Zero Trust) - Python Desktop Implementation | [点击查看](https://github.com/Kamanreza/AetherST-Windows) |
-| 103 | 2026-09-07 | RisesunStudios/warp-masque-actions | 0 | (无描述) | [点击查看](https://github.com/RisesunStudios/warp-masque-actions) |
-| 104 | 2026-09-07 | sunshangs/warp-masque-actions | 0 | (无描述) | [点击查看](https://github.com/sunshangs/warp-masque-actions) |
-| 105 | 2026-09-08 | narci2018/narci-warp-masque-actions | 1 | (无描述) | [点击查看](https://github.com/narci2018/narci-warp-masque-actions) |
-| 106 | 2026-09-08 | iK3sI3hG6d/usque-custom | 0 | usque-custom | [点击查看](https://github.com/iK3sI3hG6d/usque-custom) |
-| 107 | 2026-09-10 | redeyehare/warp-masque-actions | 0 | (无描述) | [点击查看](https://github.com/redeyehare/warp-masque-actions) |
-| 108 | 2026-09-10 | bobvane/BobWarpMasque | 0 | (无描述) | [点击查看](https://github.com/bobvane/BobWarpMasque) |
-| 109 | 2026-09-12 | DenMc55/Warp-TV-Ultra | 0 | TV-focused Cloudflare WARP MASQUE for Android TV devices, | [点击查看](https://github.com/DenMc55/Warp-TV-Ultra) |
-| 110 | 2026-09-12 | DenMc55/Warp-Go-TV-Masque | 0 | TV-focused Cloudflare WARP client with MASQUE | [点击查看](https://github.com/DenMc55/Warp-Go-TV-Masque) |
-| 111 | 2026-09-12 | lxy5128537/warp-masque-actions | 0 | GitHub Actions auto-generate Cloudflare WARP MASQUE keys + mihomo config (replicated) | [点击查看](https://github.com/lxy5128537/warp-masque-actions) |
-| 112 | 2026-09-12 | bayueqi/ZQ-WARP | 2 | GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact | [点击查看](https://github.com/bayueqi/ZQ-WARP) |
-| 113 | 2026-09-13 | hidooch980/molidovpn-android | 0 | MolidoVPN for Android: native device-wide VPN (Kotlin + Rust) with MASQUE, WARP, AmneziaWG, V2Ray, Psiphon, Tor (AGPL-3.0) | [点击查看](https://github.com/hidooch980/molidovpn-android) |
-| 114 | 2026-09-14 | persianray/usque-psiphon-usque-xray-ios | 0 | (无描述) | [点击查看](https://github.com/persianray/usque-psiphon-usque-xray-ios) |
-| 115 | 2026-09-15 | Omarchy71/luci-app-aether | 0 | LuCI app + opkg package: Aether core (MASQUE/WireGuard/gool) with full-system TUN and Iran direct-routing for OpenWrt routers | [点击查看](https://github.com/Omarchy71/luci-app-aether) |
-| 116 | 2026-09-16 | wesleychange-cmd/warp-masque-actions | 0 | GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact | [点击查看](https://github.com/wesleychange-cmd/warp-masque-actions) |
-| 117 | 2026-09-17 | IHosseini083/aether-core-omarchy | 0 | An Omarchy status bar widget and popup panel for controlling the Aether tunnel — a userspace Cloudflare WARP client built by CluvexStudio for heavily censored networks. | [点击查看](https://github.com/IHosseini083/aether-core-omarchy) |
-| 118 | 2026-09-17 | Wiuvel/masqr | 1 | MASQUE/WARP tunnel core for Windows with dynamic routing, built-in DNS, and DPI-resistant handshakes | [点击查看](https://github.com/Wiuvel/masqr) |
-| 119 | 2026-09-17 | cjh0613/warp-masque-actions | 0 | GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact | [点击查看](https://github.com/cjh0613/warp-masque-actions) |
-| 120 | 2026-09-17 | woshidadi2026/new-usque-custom-pro | 0 | (无描述) | [点击查看](https://github.com/woshidadi2026/new-usque-custom-pro) |
-| 121 | 2026-09-17 | songjiekris-dev/usque-custom-pro-t | 0 | (无描述) | [点击查看](https://github.com/songjiekris-dev/usque-custom-pro-t) |
-| 122 | 2026-09-17 | songjiekris-dev/usque-custom-pro | 0 | (无描述) | [点击查看](https://github.com/songjiekris-dev/usque-custom-pro) |
-| 123 | 2026-09-17 | RADINMNX2/MNX-GUARD | 0 | MNX GUARD — native Android VPN client (Aether Rust core, MASQUE/WireGuard/Tor/Xray/Psiphon) with network optimization. | [点击查看](https://github.com/RADINMNX2/MNX-GUARD) |
-| 124 | 2026-09-19 | woshidadi2026/new-warp-masque-actions | 0 | (无描述) | [点击查看](https://github.com/woshidadi2026/new-warp-masque-actions) |
-| 125 | 2026-09-22 | shitangzeng-eng/usque-custom-pro555 | 0 | (无描述) | [点击查看](https://github.com/shitangzeng-eng/usque-custom-pro555) |
-| 126 | 2026-09-23 | xztsummer/warp-gemini-unlock | 1 | VPS 上的 Google / Gemini 精准 WARP 分流解锁：Cloudflare 官方客户端 MASQUE 本地 SOCKS5 代理 + sing-box 域名分流，四项严格验收、改动前备份、失败自动回滚，已在 Ubuntu 24.04 + sing-box-yg 环境实测。 | [点击查看](https://github.com/xztsummer/warp-gemini-unlock) |
-| 127 | 2026-09-24 | feg55/Zarp | 1 | ne-click Cloudflare WARP unblocker using zapret2. Automatically finds working DPI bypass strategies for Windows and Android | [点击查看](https://github.com/feg55/Zarp) |
-| 128 | 2026-09-24 | feg55/Zarp-Android | 1 | One-tap Cloudflare WARP for Android with automatic DPI bypass strategies. No root and no WARP app required. | [点击查看](https://github.com/feg55/Zarp-Android) |
-| 129 | 2026-09-24 | AtomAlex12/nuxk-horizon | 0 | nuxk Horizon - 3-engine Keenetic DPI bypass control plane (nfqws2 + usque + xray) | [点击查看](https://github.com/AtomAlex12/nuxk-horizon) |
-| 130 | 2026-09-26 | renyon35/usquegui | 0 | 一个基于usque的gui外壳 | [点击查看](https://github.com/renyon35/usquegui) |
-| 131 | 2026-09-27 | woshidadi2026/warp-masque | 0 | (无描述) | [点击查看](https://github.com/woshidadi2026/warp-masque) |
+| 95 | 2026-09-01 | NikanDeveloper56/Aether-Gui | 1 | A beautiful, animation-rich cross-platform GUI for the Aether networking core (MASQUE / WireGuard / Tor) — هسته‌ی اختصاصی نیکان دولپر | [点击查看](https://github.com/NikanDeveloper56/Aether-Gui) |
+| 96 | 2026-09-03 | gamerenzz/warpscout-tools | 0 | (无描述) | [点击查看](https://github.com/gamerenzz/warpscout-tools) |
+| 97 | 2026-09-04 | KJGX66F/usque-custom-pro | 1307 | 基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。 | [点击查看](https://github.com/KJGX66F/usque-custom-pro) |
+| 98 | 2026-09-04 | byJoey/warp-masque-actions | 943 | GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact | [点击查看](https://github.com/byJoey/warp-masque-actions) |
+| 99 | 2026-09-05 | ZSWWaite/warp-actions | 0 | GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact | [点击查看](https://github.com/ZSWWaite/warp-actions) |
+| 100 | 2026-09-05 | Lin00700/.github-workflows-warp-masque.yml | 0 | (无描述) | [点击查看](https://github.com/Lin00700/.github-workflows-warp-masque.yml) |
+| 101 | 2026-09-05 | vomw/Diniboy1123-usque-rs | 0 | (无描述) | [点击查看](https://github.com/vomw/Diniboy1123-usque-rs) |
+| 102 | 2026-09-05 | abapqlcm/AuroraVPN | 0 | AuroraVPN - Advanced Multi-Protocol VPN Client for Android (MASQUE/WireGuard/Gool) powered by Aether Core | [点击查看](https://github.com/abapqlcm/AuroraVPN) |
+| 103 | 2026-09-06 | Kamanreza/AetherST-Windows | 0 | Advanced Multi-Protocol VPN Client for Windows (MASQUE, WireGuard, Gool, Zero Trust) - Python Desktop Implementation | [点击查看](https://github.com/Kamanreza/AetherST-Windows) |
+| 104 | 2026-09-07 | RisesunStudios/warp-masque-actions | 0 | (无描述) | [点击查看](https://github.com/RisesunStudios/warp-masque-actions) |
+| 105 | 2026-09-07 | sunshangs/warp-masque-actions | 0 | (无描述) | [点击查看](https://github.com/sunshangs/warp-masque-actions) |
+| 106 | 2026-09-08 | narci2018/narci-warp-masque-actions | 1 | (无描述) | [点击查看](https://github.com/narci2018/narci-warp-masque-actions) |
+| 107 | 2026-09-08 | iK3sI3hG6d/usque-custom | 0 | usque-custom | [点击查看](https://github.com/iK3sI3hG6d/usque-custom) |
+| 108 | 2026-09-10 | redeyehare/warp-masque-actions | 0 | (无描述) | [点击查看](https://github.com/redeyehare/warp-masque-actions) |
+| 109 | 2026-09-10 | bobvane/BobWarpMasque | 0 | (无描述) | [点击查看](https://github.com/bobvane/BobWarpMasque) |
+| 110 | 2026-09-12 | DenMc55/Warp-TV-Ultra | 0 | TV-focused Cloudflare WARP MASQUE for Android TV devices, | [点击查看](https://github.com/DenMc55/Warp-TV-Ultra) |
+| 111 | 2026-09-12 | DenMc55/Warp-Go-TV-Masque | 0 | TV-focused Cloudflare WARP client with MASQUE | [点击查看](https://github.com/DenMc55/Warp-Go-TV-Masque) |
+| 112 | 2026-09-12 | lxy5128537/warp-masque-actions | 0 | GitHub Actions auto-generate Cloudflare WARP MASQUE keys + mihomo config (replicated) | [点击查看](https://github.com/lxy5128537/warp-masque-actions) |
+| 113 | 2026-09-12 | bayueqi/ZQ-WARP | 2 | GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact | [点击查看](https://github.com/bayueqi/ZQ-WARP) |
+| 114 | 2026-09-13 | hidooch980/molidovpn-android | 0 | MolidoVPN for Android: native device-wide VPN (Kotlin + Rust) with MASQUE, WARP, AmneziaWG, V2Ray, Psiphon, Tor (AGPL-3.0) | [点击查看](https://github.com/hidooch980/molidovpn-android) |
+| 115 | 2026-09-14 | persianray/usque-psiphon-usque-xray-ios | 0 | (无描述) | [点击查看](https://github.com/persianray/usque-psiphon-usque-xray-ios) |
+| 116 | 2026-09-15 | Omarchy71/luci-app-aether | 0 | LuCI app + opkg package: Aether core (MASQUE/WireGuard/gool) with full-system TUN and Iran direct-routing for OpenWrt routers | [点击查看](https://github.com/Omarchy71/luci-app-aether) |
+| 117 | 2026-09-16 | wesleychange-cmd/warp-masque-actions | 0 | GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact | [点击查看](https://github.com/wesleychange-cmd/warp-masque-actions) |
+| 118 | 2026-09-17 | IHosseini083/aether-core-omarchy | 0 | An Omarchy status bar widget and popup panel for controlling the Aether tunnel — a userspace Cloudflare WARP client built by CluvexStudio for heavily censored networks. | [点击查看](https://github.com/IHosseini083/aether-core-omarchy) |
+| 119 | 2026-09-17 | Wiuvel/masqr | 1 | MASQUE/WARP tunnel core for Windows with dynamic routing, built-in DNS, and DPI-resistant handshakes | [点击查看](https://github.com/Wiuvel/masqr) |
+| 120 | 2026-09-17 | cjh0613/warp-masque-actions | 0 | GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact | [点击查看](https://github.com/cjh0613/warp-masque-actions) |
+| 121 | 2026-09-17 | woshidadi2026/new-usque-custom-pro | 0 | (无描述) | [点击查看](https://github.com/woshidadi2026/new-usque-custom-pro) |
+| 122 | 2026-09-17 | songjiekris-dev/usque-custom-pro-t | 0 | (无描述) | [点击查看](https://github.com/songjiekris-dev/usque-custom-pro-t) |
+| 123 | 2026-09-17 | songjiekris-dev/usque-custom-pro | 0 | (无描述) | [点击查看](https://github.com/songjiekris-dev/usque-custom-pro) |
+| 124 | 2026-09-17 | RADINMNX2/MNX-GUARD | 0 | MNX GUARD — native Android VPN client (Aether Rust core, MASQUE/WireGuard/Tor/Xray/Psiphon) with network optimization. | [点击查看](https://github.com/RADINMNX2/MNX-GUARD) |
+| 125 | 2026-09-19 | woshidadi2026/new-warp-masque-actions | 0 | (无描述) | [点击查看](https://github.com/woshidadi2026/new-warp-masque-actions) |
+| 126 | 2026-09-22 | shitangzeng-eng/usque-custom-pro555 | 0 | (无描述) | [点击查看](https://github.com/shitangzeng-eng/usque-custom-pro555) |
+| 127 | 2026-09-23 | xztsummer/warp-gemini-unlock | 1 | VPS 上的 Google / Gemini 精准 WARP 分流解锁：Cloudflare 官方客户端 MASQUE 本地 SOCKS5 代理 + sing-box 域名分流，四项严格验收、改动前备份、失败自动回滚，已在 Ubuntu 24.04 + sing-box-yg 环境实测。 | [点击查看](https://github.com/xztsummer/warp-gemini-unlock) |
+| 128 | 2026-09-24 | feg55/Zarp | 1 | ne-click Cloudflare WARP unblocker using zapret2. Automatically finds working DPI bypass strategies for Windows and Android | [点击查看](https://github.com/feg55/Zarp) |
+| 129 | 2026-09-24 | feg55/Zarp-Android | 1 | One-tap Cloudflare WARP for Android with automatic DPI bypass strategies. No root and no WARP app required. | [点击查看](https://github.com/feg55/Zarp-Android) |
+| 130 | 2026-09-24 | AtomAlex12/nuxk-horizon | 0 | nuxk Horizon - 3-engine Keenetic DPI bypass control plane (nfqws2 + usque + xray) | [点击查看](https://github.com/AtomAlex12/nuxk-horizon) |
+| 131 | 2026-09-26 | renyon35/usquegui | 0 | 一个基于usque的gui外壳 | [点击查看](https://github.com/renyon35/usquegui) |
+| 132 | 2026-09-27 | woshidadi2026/warp-masque | 0 | (无描述) | [点击查看](https://github.com/woshidadi2026/warp-masque) |
+| 133 | 2026-09-28 | science2468/luci-app-usque | 0 | (无描述) | [点击查看](https://github.com/science2468/luci-app-usque) |
