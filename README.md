@@ -2,8 +2,8 @@
 
 > 关键词: `warp masque` / `zerotrust masque` / `usque` / `aether masque` / `WarpScout`  
 > 排序: 按项目创建时间（从早到晚）  
-> 最后更新: 2026-10-01 03:05:53 UTC  
-> 共 135 个项目
+> 最后更新: 2026-10-02 03:07:57 UTC  
+> 共 137 个项目
 
 | # | 创建时间 | 项目名 | Star | 项目介绍 | 链接 |
 | ---: | --- | --- | ---: | --- | --- |
@@ -142,3 +142,5 @@
 | 133 | 2026-09-27 | woshidadi2026/warp-masque | 0 | (无描述) | [点击查看](https://github.com/woshidadi2026/warp-masque) |
 | 134 | 2026-09-28 | science2468/luci-app-usque | 0 | (无描述) | [点击查看](https://github.com/science2468/luci-app-usque) |
 | 135 | 2026-09-30 | usualJupiter/usque-rust | 0 | (无描述) | [点击查看](https://github.com/usualJupiter/usque-rust) |
+| 136 | 2026-10-01 | mpmp666/warp2s5 | 0 | 纯 Python 的 Cloudflare WARP 客户端：MASQUE(HTTP/3) + 用户态 TCP/IP 栈 + SOCKS5 + 多实例 + WebUI，无需 root/TUN | [点击查看](https://github.com/mpmp666/warp2s5) |
+| 137 | 2026-10-01 | teateasan/usque-config-generator | 0 | (无描述) | [点击查看](https://github.com/teateasan/usque-config-generator) |
