@@ -2,8 +2,8 @@
 
 > 关键词: `warp masque` / `zerotrust masque` / `usque` / `aether masque` / `WarpScout`  
 > 排序: 按项目创建时间（从早到晚）  
-> 最后更新: 2026-10-02 03:07:57 UTC  
-> 共 137 个项目
+> 最后更新: 2026-10-03 02:54:18 UTC  
+> 共 138 个项目
 
 | # | 创建时间 | 项目名 | Star | 项目介绍 | 链接 |
 | ---: | --- | --- | ---: | --- | --- |
@@ -144,3 +144,4 @@
 | 135 | 2026-09-30 | usualJupiter/usque-rust | 0 | (无描述) | [点击查看](https://github.com/usualJupiter/usque-rust) |
 | 136 | 2026-10-01 | mpmp666/warp2s5 | 0 | 纯 Python 的 Cloudflare WARP 客户端：MASQUE(HTTP/3) + 用户态 TCP/IP 栈 + SOCKS5 + 多实例 + WebUI，无需 root/TUN | [点击查看](https://github.com/mpmp666/warp2s5) |
 | 137 | 2026-10-01 | teateasan/usque-config-generator | 0 | (无描述) | [点击查看](https://github.com/teateasan/usque-config-generator) |
+| 138 | 2026-10-02 | DenMc55/Warp-Connect | 0 | Open-source Android and Fire TV client for Cloudflare WARP using MASQUE, designed for simple touch and remote-friendly operation. | [点击查看](https://github.com/DenMc55/Warp-Connect) |
