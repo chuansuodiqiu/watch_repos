@@ -2,8 +2,8 @@
 
 > 关键词: `warp masque` / `zerotrust masque` / `usque` / `aether masque` / `WarpScout`  
 > 排序: 按项目创建时间（从早到晚）  
-> 最后更新: 2026-10-05 03:01:29 UTC  
-> 共 140 个项目
+> 最后更新: 2026-10-06 03:50:43 UTC  
+> 共 142 个项目
 
 | # | 创建时间 | 项目名 | Star | 项目介绍 | 链接 |
 | ---: | --- | --- | ---: | --- | --- |
@@ -147,3 +147,5 @@
 | 138 | 2026-10-01 | teateasan/usque-config-generator | 0 | (无描述) | [点击查看](https://github.com/teateasan/usque-config-generator) |
 | 139 | 2026-10-02 | DenMc55/Warp-Connect | 0 | Open-source Android and Fire TV client for Cloudflare WARP using MASQUE, designed for simple touch and remote-friendly operation. | [点击查看](https://github.com/DenMc55/Warp-Connect) |
 | 140 | 2026-10-04 | kaktrina99/warp-masque-own | 0 | 純 Python 實現的 Cloudflare WARP MASQUE 帳號註冊，無第三方 WARP 工具依賴 | [点击查看](https://github.com/kaktrina99/warp-masque-own) |
+| 141 | 2026-10-05 | EdmundMad0309/warp-masque-bypass | 1 | macOS: 用 MASQUE over HTTP/2 + SNI 伪装绕过封锁 Cloudflare WARP 的校园网/企业网(usque + sing-box) | [点击查看](https://github.com/EdmundMad0309/warp-masque-bypass) |
+| 142 | 2026-10-05 | eleutherifer/warpscout-android | 0 | (无描述) | [点击查看](https://github.com/eleutherifer/warpscout-android) |
