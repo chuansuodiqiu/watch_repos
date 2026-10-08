@@ -2,8 +2,8 @@
 
 > 关键词: `warp masque` / `zerotrust masque` / `usque` / `aether masque` / `WarpScout`  
 > 排序: 按项目创建时间（从早到晚）  
-> 最后更新: 2026-10-07 03:18:36 UTC  
-> 共 144 个项目
+> 最后更新: 2026-10-08 03:33:55 UTC  
+> 共 146 个项目
 
 | # | 创建时间 | 项目名 | Star | 项目介绍 | 链接 |
 | ---: | --- | --- | ---: | --- | --- |
@@ -138,16 +138,18 @@
 | 129 | 2026-09-24 | feg55/Zarp | 1 | ne-click Cloudflare WARP unblocker using zapret2. Automatically finds working DPI bypass strategies for Windows and Android | [点击查看](https://github.com/feg55/Zarp) |
 | 130 | 2026-09-24 | feg55/Zarp-Android | 1 | One-tap Cloudflare WARP for Android with automatic DPI bypass strategies. No root and no WARP app required. | [点击查看](https://github.com/feg55/Zarp-Android) |
 | 131 | 2026-09-24 | AtomAlex12/nuxk-horizon | 0 | nuxk Horizon - 3-engine Keenetic DPI bypass control plane (nfqws2 + usque + xray) | [点击查看](https://github.com/AtomAlex12/nuxk-horizon) |
-| 132 | 2026-09-26 | renyon35/usquegui | 0 | 一个基于usque的gui外壳 | [点击查看](https://github.com/renyon35/usquegui) |
-| 133 | 2026-09-26 | KLDpeace/usquegui | 1 | 一个基于usque的gui外壳 | [点击查看](https://github.com/KLDpeace/usquegui) |
-| 134 | 2026-09-27 | woshidadi2026/warp-masque | 0 | (无描述) | [点击查看](https://github.com/woshidadi2026/warp-masque) |
-| 135 | 2026-09-28 | science2468/luci-app-usque | 0 | (无描述) | [点击查看](https://github.com/science2468/luci-app-usque) |
-| 136 | 2026-09-30 | usualJupiter/usque-rust | 0 | (无描述) | [点击查看](https://github.com/usualJupiter/usque-rust) |
-| 137 | 2026-10-01 | mpmp666/warp2s5 | 0 | 纯 Python 的 Cloudflare WARP 客户端：MASQUE(HTTP/3) + 用户态 TCP/IP 栈 + SOCKS5 + 多实例 + WebUI，无需 root/TUN | [点击查看](https://github.com/mpmp666/warp2s5) |
-| 138 | 2026-10-01 | teateasan/usque-config-generator | 0 | (无描述) | [点击查看](https://github.com/teateasan/usque-config-generator) |
-| 139 | 2026-10-02 | DenMc55/Warp-Connect | 0 | Open-source Android and Fire TV client for Cloudflare WARP using MASQUE, designed for simple touch and remote-friendly operation. | [点击查看](https://github.com/DenMc55/Warp-Connect) |
-| 140 | 2026-10-04 | kaktrina99/warp-masque-own | 0 | 純 Python 實現的 Cloudflare WARP MASQUE 帳號註冊，無第三方 WARP 工具依賴 | [点击查看](https://github.com/kaktrina99/warp-masque-own) |
-| 141 | 2026-10-05 | EdmundMad0309/warp-masque-bypass | 1 | macOS: 用 MASQUE over HTTP/2 + SNI 伪装绕过封锁 Cloudflare WARP 的校园网/企业网(usque + sing-box) | [点击查看](https://github.com/EdmundMad0309/warp-masque-bypass) |
-| 142 | 2026-10-05 | eleutherifer/warpscout-android | 0 | (无描述) | [点击查看](https://github.com/eleutherifer/warpscout-android) |
-| 143 | 2026-10-06 | 0157Martin/warp-masque-manager | 0 | Cloudflare WARP MASQUE local proxy backend | [点击查看](https://github.com/0157Martin/warp-masque-manager) |
-| 144 | 2026-10-07 | Ddfathu/usqueproxymod | 0 | (无描述) | [点击查看](https://github.com/Ddfathu/usqueproxymod) |
+| 132 | 2026-09-24 | AtomAlex12/gp-horizon | 0 | nuxk Horizon - 3-engine Keenetic DPI bypass control plane (nfqws2 + usque + xray) | [点击查看](https://github.com/AtomAlex12/gp-horizon) |
+| 133 | 2026-09-26 | renyon35/usquegui | 0 | 一个基于usque的gui外壳 | [点击查看](https://github.com/renyon35/usquegui) |
+| 134 | 2026-09-26 | KLDpeace/usquegui | 1 | 一个基于usque的gui外壳 | [点击查看](https://github.com/KLDpeace/usquegui) |
+| 135 | 2026-09-27 | woshidadi2026/warp-masque | 0 | (无描述) | [点击查看](https://github.com/woshidadi2026/warp-masque) |
+| 136 | 2026-09-28 | science2468/luci-app-usque | 0 | (无描述) | [点击查看](https://github.com/science2468/luci-app-usque) |
+| 137 | 2026-09-30 | usualJupiter/usque-rust | 0 | (无描述) | [点击查看](https://github.com/usualJupiter/usque-rust) |
+| 138 | 2026-10-01 | mpmp666/warp2s5 | 0 | 纯 Python 的 Cloudflare WARP 客户端：MASQUE(HTTP/3) + 用户态 TCP/IP 栈 + SOCKS5 + 多实例 + WebUI，无需 root/TUN | [点击查看](https://github.com/mpmp666/warp2s5) |
+| 139 | 2026-10-01 | teateasan/usque-config-generator | 0 | (无描述) | [点击查看](https://github.com/teateasan/usque-config-generator) |
+| 140 | 2026-10-02 | DenMc55/Warp-Connect | 0 | Open-source Android and Fire TV client for Cloudflare WARP using MASQUE, designed for simple touch and remote-friendly operation. | [点击查看](https://github.com/DenMc55/Warp-Connect) |
+| 141 | 2026-10-04 | kaktrina99/warp-masque-own | 0 | 純 Python 實現的 Cloudflare WARP MASQUE 帳號註冊，無第三方 WARP 工具依賴 | [点击查看](https://github.com/kaktrina99/warp-masque-own) |
+| 142 | 2026-10-05 | EdmundMad0309/warp-masque-bypass | 1 | macOS: 用 MASQUE over HTTP/2 + SNI 伪装绕过封锁 Cloudflare WARP 的校园网/企业网(usque + sing-box) | [点击查看](https://github.com/EdmundMad0309/warp-masque-bypass) |
+| 143 | 2026-10-05 | eleutherifer/warpscout-android | 0 | (无描述) | [点击查看](https://github.com/eleutherifer/warpscout-android) |
+| 144 | 2026-10-06 | 0157Martin/warp-masque-manager | 0 | Cloudflare WARP MASQUE local proxy backend | [点击查看](https://github.com/0157Martin/warp-masque-manager) |
+| 145 | 2026-10-07 | Ddfathu/usqueproxymod | 0 | (无描述) | [点击查看](https://github.com/Ddfathu/usqueproxymod) |
+| 146 | 2026-10-07 | v-vadim/warpscout-mikrotik | 0 | ARM64 container for MikroTik: WARP endpoint scanning, AWG configs and mihomo restart on successful updates. | [点击查看](https://github.com/v-vadim/warpscout-mikrotik) |
