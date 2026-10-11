@@ -2,8 +2,8 @@
 
 > 关键词: `warp masque` / `zerotrust masque` / `usque` / `aether masque` / `WarpScout`  
 > 排序: 按项目创建时间（从早到晚）  
-> 最后更新: 2026-10-10 03:20:55 UTC  
-> 共 151 个项目
+> 最后更新: 2026-10-11 02:53:57 UTC  
+> 共 152 个项目
 
 | # | 创建时间 | 项目名 | Star | 项目介绍 | 链接 |
 | ---: | --- | --- | ---: | --- | --- |
@@ -158,3 +158,4 @@
 | 149 | 2026-10-07 | v-vadim/warpscout-mikrotik | 0 | ARM64 container for MikroTik: WARP endpoint scanning, AWG configs and mihomo restart on successful updates. | [点击查看](https://github.com/v-vadim/warpscout-mikrotik) |
 | 150 | 2026-10-08 | Ddfathu/usquemod | 0 | (无描述) | [点击查看](https://github.com/Ddfathu/usquemod) |
 | 151 | 2026-10-09 | vomw/usque | 0 | (无描述) | [点击查看](https://github.com/vomw/usque) |
+| 152 | 2026-10-10 | RVMXL/WarpScoutGUI-AWG | 0 | WARPScoutGUI-AWG: desktop GUI (Neutralino.js) для warpscout CLI (vernette) — скан WARP-эндпоинтов, генерация конфигов AmneziaWG (awg31) | [点击查看](https://github.com/RVMXL/WarpScoutGUI-AWG) |
