@@ -2,8 +2,8 @@
 
 > 关键词: `warp masque` / `zerotrust masque` / `usque` / `aether masque` / `WarpScout`  
 > 排序: 按项目创建时间（从早到晚）  
-> 最后更新: 2026-10-13 04:32:09 UTC  
-> 共 157 个项目
+> 最后更新: 2026-10-14 02:41:54 UTC  
+> 共 162 个项目
 
 | # | 创建时间 | 项目名 | Star | 项目介绍 | 链接 |
 | ---: | --- | --- | ---: | --- | --- |
@@ -164,3 +164,8 @@
 | 155 | 2026-10-09 | ramin-mahmoodi/Hemera | 1 | Ultra-fast, pure C++ native implementation of the Aether censorship-circumvention engine & desktop client for Windows | [点击查看](https://github.com/ramin-mahmoodi/Hemera) |
 | 156 | 2026-10-10 | RVMXL/WarpScoutGUI-AWG | 0 | WARPScoutGUI-AWG: desktop GUI (Neutralino.js) для warpscout CLI (vernette) — скан WARP-эндпоинтов, генерация конфигов AmneziaWG (awg31) | [点击查看](https://github.com/RVMXL/WarpScoutGUI-AWG) |
 | 157 | 2026-10-11 | phenomenonRT/usque | 0 | (无描述) | [点击查看](https://github.com/phenomenonRT/usque) |
+| 158 | 2026-10-13 | soroushse7o/ASiRi-web-panel | 2 | پنل وب غیررسمی مدیریت تونل  Aether: gateway، raelys TCP/WebSocket،  بهترین کانفیگ خودکار، watchdog و اعلان تلگرام Unofficial web panel for the Aether tunnel: gateway, TCP/WebSocket relays, auto best-config, watchdog & telegram alarm | [点击查看](https://github.com/soroushse7o/ASiRi-web-panel) |
+| 159 | 2026-10-13 | bangbung2/usquemood | 0 | (无描述) | [点击查看](https://github.com/bangbung2/usquemood) |
+| 160 | 2026-10-13 | bangbung2/UsqueMod | 0 | (无描述) | [点击查看](https://github.com/bangbung2/UsqueMod) |
+| 161 | 2026-10-13 | maxv0/usque | 0 | (无描述) | [点击查看](https://github.com/maxv0/usque) |
+| 162 | 2026-10-13 | zipfo/wsas-openwrt | 0 | warpscout automation script for openwrt | [点击查看](https://github.com/zipfo/wsas-openwrt) |
