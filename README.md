@@ -2,8 +2,8 @@
 
 > 关键词: `warp masque` / `zerotrust masque` / `usque` / `aether masque` / `WarpScout`  
 > 排序: 按项目创建时间（从早到晚）  
-> 最后更新: 2026-10-14 02:41:54 UTC  
-> 共 162 个项目
+> 最后更新: 2026-10-15 02:21:39 UTC  
+> 共 163 个项目
 
 | # | 创建时间 | 项目名 | Star | 项目介绍 | 链接 |
 | ---: | --- | --- | ---: | --- | --- |
@@ -169,3 +169,4 @@
 | 160 | 2026-10-13 | bangbung2/UsqueMod | 0 | (无描述) | [点击查看](https://github.com/bangbung2/UsqueMod) |
 | 161 | 2026-10-13 | maxv0/usque | 0 | (无描述) | [点击查看](https://github.com/maxv0/usque) |
 | 162 | 2026-10-13 | zipfo/wsas-openwrt | 0 | warpscout automation script for openwrt | [点击查看](https://github.com/zipfo/wsas-openwrt) |
+| 163 | 2026-10-14 | nuerzh/usque | 0 | (无描述) | [点击查看](https://github.com/nuerzh/usque) |
