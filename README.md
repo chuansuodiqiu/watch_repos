@@ -2,8 +2,8 @@
 
 > 关键词: `warp masque` / `zerotrust masque` / `usque` / `aether masque` / `WarpScout`  
 > 排序: 按项目创建时间（从早到晚）  
-> 最后更新: 2026-10-17 02:07:34 UTC  
-> 共 167 个项目
+> 最后更新: 2026-10-18 02:07:18 UTC  
+> 共 169 个项目
 
 | # | 创建时间 | 项目名 | Star | 项目介绍 | 链接 |
 | ---: | --- | --- | ---: | --- | --- |
@@ -174,3 +174,5 @@
 | 165 | 2026-10-16 | ustdbus/mihomo-warp | 0 | 基于 GitHub Actions 自动化生成 Cloudflare WARP 的 AmneziaWG (AWG) 与 MASQUE 节点配置及 Mihomo 完整订阅 | [点击查看](https://github.com/ustdbus/mihomo-warp) |
 | 166 | 2026-10-16 | smersh16/usque-gui | 0 | веб-интерфейс для usque-keenetic | [点击查看](https://github.com/smersh16/usque-gui) |
 | 167 | 2026-10-17 | Creadream-Studio/WARPPlus | 0 | An open-source Cloudflare WARP client for Android based on MASQUE protocol (usque). Material 3 Expressive UI. | [点击查看](https://github.com/Creadream-Studio/WARPPlus) |
+| 168 | 2026-10-17 | incognito1990/usque-docker | 0 | (无描述) | [点击查看](https://github.com/incognito1990/usque-docker) |
+| 169 | 2026-10-17 | finem-mundi/usque_ad_finem_mundi | 0 | Until the end of the world... | [点击查看](https://github.com/finem-mundi/usque_ad_finem_mundi) |
