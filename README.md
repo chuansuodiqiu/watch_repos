@@ -2,8 +2,8 @@
 
 > 关键词: `warp masque` / `zerotrust masque` / `usque` / `aether masque` / `WarpScout`  
 > 排序: 按项目创建时间（从早到晚）  
-> 最后更新: 2026-10-18 02:07:18 UTC  
-> 共 169 个项目
+> 最后更新: 2026-10-19 02:23:37 UTC  
+> 共 170 个项目
 
 | # | 创建时间 | 项目名 | Star | 项目介绍 | 链接 |
 | ---: | --- | --- | ---: | --- | --- |
@@ -176,3 +176,4 @@
 | 167 | 2026-10-17 | Creadream-Studio/WARPPlus | 0 | An open-source Cloudflare WARP client for Android based on MASQUE protocol (usque). Material 3 Expressive UI. | [点击查看](https://github.com/Creadream-Studio/WARPPlus) |
 | 168 | 2026-10-17 | incognito1990/usque-docker | 0 | (无描述) | [点击查看](https://github.com/incognito1990/usque-docker) |
 | 169 | 2026-10-17 | finem-mundi/usque_ad_finem_mundi | 0 | Until the end of the world... | [点击查看](https://github.com/finem-mundi/usque_ad_finem_mundi) |
+| 170 | 2026-10-17 | LirikKun/warpd-openwrt | 0 | Userspace WARP and MASQUE proxy supervisor for OpenWrt | [点击查看](https://github.com/LirikKun/warpd-openwrt) |
