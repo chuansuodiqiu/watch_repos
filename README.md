@@ -2,8 +2,8 @@
 
 > 关键词: `warp masque` / `zerotrust masque` / `usque` / `aether masque` / `WarpScout`  
 > 排序: 按项目创建时间（从早到晚）  
-> 最后更新: 2026-10-20 02:36:56 UTC  
-> 共 171 个项目
+> 最后更新: 2026-10-21 02:30:55 UTC  
+> 共 174 个项目
 
 | # | 创建时间 | 项目名 | Star | 项目介绍 | 链接 |
 | ---: | --- | --- | ---: | --- | --- |
@@ -178,3 +178,6 @@
 | 169 | 2026-10-17 | incognito1990/usque-docker | 0 | (无描述) | [点击查看](https://github.com/incognito1990/usque-docker) |
 | 170 | 2026-10-17 | finem-mundi/usque_ad_finem_mundi | 0 | Until the end of the world... | [点击查看](https://github.com/finem-mundi/usque_ad_finem_mundi) |
 | 171 | 2026-10-17 | LirikKun/warpd-openwrt | 0 | Userspace WARP and MASQUE proxy supervisor for OpenWrt | [点击查看](https://github.com/LirikKun/warpd-openwrt) |
+| 172 | 2026-10-20 | LainVs/warp-lite | 0 | One-click Cloudflare WARP client for Windows (usque MASQUE + mihomo) | [点击查看](https://github.com/LainVs/warp-lite) |
+| 173 | 2026-10-20 | yuehuaCRNo1/usque-custom-pro | 0 | (无描述) | [点击查看](https://github.com/yuehuaCRNo1/usque-custom-pro) |
+| 174 | 2026-10-20 | asnahhusin/Usque-apk | 0 | (无描述) | [点击查看](https://github.com/asnahhusin/Usque-apk) |
