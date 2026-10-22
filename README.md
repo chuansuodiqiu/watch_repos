@@ -2,8 +2,8 @@
 
 > 关键词: `warp masque` / `zerotrust masque` / `usque` / `aether masque` / `WarpScout`  
 > 排序: 按项目创建时间（从早到晚）  
-> 最后更新: 2026-10-21 02:30:55 UTC  
-> 共 174 个项目
+> 最后更新: 2026-10-22 02:27:30 UTC  
+> 共 177 个项目
 
 | # | 创建时间 | 项目名 | Star | 项目介绍 | 链接 |
 | ---: | --- | --- | ---: | --- | --- |
@@ -181,3 +181,6 @@
 | 172 | 2026-10-20 | LainVs/warp-lite | 0 | One-click Cloudflare WARP client for Windows (usque MASQUE + mihomo) | [点击查看](https://github.com/LainVs/warp-lite) |
 | 173 | 2026-10-20 | yuehuaCRNo1/usque-custom-pro | 0 | (无描述) | [点击查看](https://github.com/yuehuaCRNo1/usque-custom-pro) |
 | 174 | 2026-10-20 | asnahhusin/Usque-apk | 0 | (无描述) | [点击查看](https://github.com/asnahhusin/Usque-apk) |
+| 175 | 2026-10-21 | xin-521/usque-openwrt | 0 | OpenWrt 25.x APK packaging and LuCI UI for usque (Cloudflare WARP/MASQUE) | [点击查看](https://github.com/xin-521/usque-openwrt) |
+| 176 | 2026-10-21 | caunt/WarpClient | 1 | Cloudflare WARP client for .NET: TCP, UDP, and HTTP through WARP's MASQUE tunnel | [点击查看](https://github.com/caunt/WarpClient) |
+| 177 | 2026-10-21 | RealHenryGX/luci-apps | 0 | LuCI apps: usque (Cloudflare WARP / MASQUE) panel and Ruijie ePortal campus network auth | [点击查看](https://github.com/RealHenryGX/luci-apps) |
