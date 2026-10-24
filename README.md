@@ -2,8 +2,8 @@
 
 > 关键词: `warp masque` / `zerotrust masque` / `usque` / `aether masque` / `WarpScout`  
 > 排序: 按项目创建时间（从早到晚）  
-> 最后更新: 2026-10-23 02:32:14 UTC  
-> 共 178 个项目
+> 最后更新: 2026-10-24 02:30:51 UTC  
+> 共 179 个项目
 
 | # | 创建时间 | 项目名 | Star | 项目介绍 | 链接 |
 | ---: | --- | --- | ---: | --- | --- |
@@ -185,3 +185,4 @@
 | 176 | 2026-10-21 | caunt/WarpClient | 1 | Cloudflare WARP client for .NET: TCP, UDP, and HTTP through WARP's MASQUE tunnel | [点击查看](https://github.com/caunt/WarpClient) |
 | 177 | 2026-10-21 | RealHenryGX/luci-apps | 0 | LuCI apps: usque (Cloudflare WARP / MASQUE) panel and Ruijie ePortal campus network auth | [点击查看](https://github.com/RealHenryGX/luci-apps) |
 | 178 | 2026-10-22 | WorldEditAxe/warpq | 0 | A custom Cloudflare WARP MASQUE client, written in C | [点击查看](https://github.com/WorldEditAxe/warpq) |
+| 179 | 2026-10-23 | smersh16/warpscout-web | 0 | warpscout-web | [点击查看](https://github.com/smersh16/warpscout-web) |
