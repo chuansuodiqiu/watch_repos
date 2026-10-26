@@ -2,8 +2,8 @@
 
 > 关键词: `warp masque` / `zerotrust masque` / `usque` / `aether masque` / `WarpScout`  
 > 排序: 按项目创建时间（从早到晚）  
-> 最后更新: 2026-10-25 02:18:05 UTC  
-> 共 180 个项目
+> 最后更新: 2026-10-26 02:18:25 UTC  
+> 共 183 个项目
 
 | # | 创建时间 | 项目名 | Star | 项目介绍 | 链接 |
 | ---: | --- | --- | ---: | --- | --- |
@@ -187,3 +187,6 @@
 | 178 | 2026-10-21 | RealHenryGX/luci-apps | 0 | LuCI apps: usque (Cloudflare WARP / MASQUE) panel and Ruijie ePortal campus network auth | [点击查看](https://github.com/RealHenryGX/luci-apps) |
 | 179 | 2026-10-22 | WorldEditAxe/warpq | 0 | A custom Cloudflare WARP MASQUE client, written in C | [点击查看](https://github.com/WorldEditAxe/warpq) |
 | 180 | 2026-10-23 | smersh16/warpscout-web | 0 | warpscout-web | [点击查看](https://github.com/smersh16/warpscout-web) |
+| 181 | 2026-10-25 | ShiTmoZ/A | 0 | Ultra-fast native Windows client for Cloudflare WARP over MASQUE HTTP/2 (Wintun & System Proxy) | [点击查看](https://github.com/ShiTmoZ/A) |
+| 182 | 2026-10-25 | pritkr/opencode-warp-proxy | 0 | ⚡ Cloudflare WARP proxy bridge & dynamic privacy shield for OpenCode. Bypasses shared Wi-Fi IP rate-limits and randomizes project identifiers on Linux and macOS. | [点击查看](https://github.com/pritkr/opencode-warp-proxy) |
+| 183 | 2026-10-25 | free-dam-man/warp-zerotrust-masque-skill | 36 | Guided Muse auto-deployment: Cloudflare WARP on your own Zero Trust team with MASQUE protocol (wizard skill + one-shot prompt + verify script). 方法来源: 零度解说 | [点击查看](https://github.com/free-dam-man/warp-zerotrust-masque-skill) |
