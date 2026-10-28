@@ -2,8 +2,8 @@
 
 > 关键词: `warp masque` / `zerotrust masque` / `usque` / `aether masque` / `WarpScout`  
 > 排序: 按项目创建时间（从早到晚）  
-> 最后更新: 2026-10-27 02:54:08 UTC  
-> 共 186 个项目
+> 最后更新: 2026-10-28 03:02:07 UTC  
+> 共 188 个项目
 
 | # | 创建时间 | 项目名 | Star | 项目介绍 | 链接 |
 | ---: | --- | --- | ---: | --- | --- |
@@ -193,3 +193,5 @@
 | 184 | 2026-10-26 | fmu/openwrt-usque | 0 | Cloudflare WARP for OpenWrt 25.12 with LuCI + signed APK feed | [点击查看](https://github.com/fmu/openwrt-usque) |
 | 185 | 2026-10-26 | duckandduck23/duck-scanner-warp | 1 | Duck Scanner - unofficial Cloudflare WARP endpoint scanner & config maker (WireGuard, WARP-on-WARP, MASQUE, OneXray, Xray, Hiddify, AmneziaWG) | [点击查看](https://github.com/duckandduck23/duck-scanner-warp) |
 | 186 | 2026-10-27 | TonyD2F/zenreset | 0 | Reset OpenCode Zen free-tier rate limits by rotating your WARP egress IP. Built for Debian proot on Termux/Android. | [点击查看](https://github.com/TonyD2F/zenreset) |
+| 187 | 2026-10-27 | hhCodingCat/warp-masque-actions | 0 | GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact | [点击查看](https://github.com/hhCodingCat/warp-masque-actions) |
+| 188 | 2026-10-27 | ShiTmoZ/Aether-Android | 0 | Aether MASQUE Android Client — SetProduct Liquid Glass Edition (Kotlin + Jetpack Compose + VpnService) | [点击查看](https://github.com/ShiTmoZ/Aether-Android) |
