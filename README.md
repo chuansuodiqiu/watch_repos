@@ -2,8 +2,8 @@
 
 > 关键词: `warp masque` / `zerotrust masque` / `usque` / `aether masque` / `WarpScout`  
 > 排序: 按项目创建时间（从早到晚）  
-> 最后更新: 2026-10-28 03:02:07 UTC  
-> 共 188 个项目
+> 最后更新: 2026-10-29 03:29:20 UTC  
+> 共 190 个项目
 
 | # | 创建时间 | 项目名 | Star | 项目介绍 | 链接 |
 | ---: | --- | --- | ---: | --- | --- |
@@ -195,3 +195,5 @@
 | 186 | 2026-10-27 | TonyD2F/zenreset | 0 | Reset OpenCode Zen free-tier rate limits by rotating your WARP egress IP. Built for Debian proot on Termux/Android. | [点击查看](https://github.com/TonyD2F/zenreset) |
 | 187 | 2026-10-27 | hhCodingCat/warp-masque-actions | 0 | GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact | [点击查看](https://github.com/hhCodingCat/warp-masque-actions) |
 | 188 | 2026-10-27 | ShiTmoZ/Aether-Android | 0 | Aether MASQUE Android Client — SetProduct Liquid Glass Edition (Kotlin + Jetpack Compose + VpnService) | [点击查看](https://github.com/ShiTmoZ/Aether-Android) |
+| 189 | 2026-10-28 | wzbtcbkrsz/warp-masque | 0 | (无描述) | [点击查看](https://github.com/wzbtcbkrsz/warp-masque) |
+| 190 | 2026-10-28 | Ero-gamer/Aether-Next | 0 | Aether Mobile: a free and open-source Android VPN client with MASQUE, WireGuard, Psiphon and Tor chaining | [点击查看](https://github.com/Ero-gamer/Aether-Next) |
