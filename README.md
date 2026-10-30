@@ -2,8 +2,8 @@
 
 > 关键词: `warp masque` / `zerotrust masque` / `usque` / `aether masque` / `WarpScout`  
 > 排序: 按项目创建时间（从早到晚）  
-> 最后更新: 2026-10-29 03:29:20 UTC  
-> 共 190 个项目
+> 最后更新: 2026-10-30 03:31:44 UTC  
+> 共 193 个项目
 
 | # | 创建时间 | 项目名 | Star | 项目介绍 | 链接 |
 | ---: | --- | --- | ---: | --- | --- |
@@ -197,3 +197,6 @@
 | 188 | 2026-10-27 | ShiTmoZ/Aether-Android | 0 | Aether MASQUE Android Client — SetProduct Liquid Glass Edition (Kotlin + Jetpack Compose + VpnService) | [点击查看](https://github.com/ShiTmoZ/Aether-Android) |
 | 189 | 2026-10-28 | wzbtcbkrsz/warp-masque | 0 | (无描述) | [点击查看](https://github.com/wzbtcbkrsz/warp-masque) |
 | 190 | 2026-10-28 | Ero-gamer/Aether-Next | 0 | Aether Mobile: a free and open-source Android VPN client with MASQUE, WireGuard, Psiphon and Tor chaining | [点击查看](https://github.com/Ero-gamer/Aether-Next) |
+| 191 | 2026-10-28 | wzbtcbkrsz/warp-masque-web-tool | 0 | (无描述) | [点击查看](https://github.com/wzbtcbkrsz/warp-masque-web-tool) |
+| 192 | 2026-10-29 | RIX-REZA/RIX-AETHER | 1 | Material 3 Android client for the Aether WARP / MASQUE core — it never says «متصل» until a real request has come back through the tunnel. | [点击查看](https://github.com/RIX-REZA/RIX-AETHER) |
+| 193 | 2026-10-29 | AlfasyMaor2434/usque-attitude-estimation | 0 | (无描述) | [点击查看](https://github.com/AlfasyMaor2434/usque-attitude-estimation) |
