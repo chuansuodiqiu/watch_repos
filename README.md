@@ -2,8 +2,8 @@
 
 > 关键词: `warp masque` / `zerotrust masque` / `usque` / `aether masque` / `WarpScout`  
 > 排序: 按项目创建时间（从早到晚）  
-> 最后更新: 2026-11-01 03:14:33 UTC  
-> 共 193 个项目
+> 最后更新: 2026-11-02 03:24:03 UTC  
+> 共 199 个项目
 
 | # | 创建时间 | 项目名 | Star | 项目介绍 | 链接 |
 | ---: | --- | --- | ---: | --- | --- |
@@ -200,3 +200,9 @@
 | 191 | 2026-10-28 | wzbtcbkrsz/warp-masque-web-tool | 0 | (无描述) | [点击查看](https://github.com/wzbtcbkrsz/warp-masque-web-tool) |
 | 192 | 2026-10-29 | RIX-REZA/RIX-AETHER | 1 | Material 3 Android client for the Aether WARP / MASQUE core — it never says «متصل» until a real request has come back through the tunnel. | [点击查看](https://github.com/RIX-REZA/RIX-AETHER) |
 | 193 | 2026-10-29 | AlfasyMaor2434/usque-attitude-estimation | 0 | (无描述) | [点击查看](https://github.com/AlfasyMaor2434/usque-attitude-estimation) |
+| 194 | 2026-10-30 | PsyGioX/zapret-warp-for-games | 1 | Набор BAT-файлов для Windows. zapret (winws + WinDivert) помогает подключиться к Cloudflare WARP (MASQUE), а WARP пускает через себя трафик любой игры и любого лаунчера. | [点击查看](https://github.com/PsyGioX/zapret-warp-for-games) |
+| 195 | 2026-11-01 | ZarpVPN/Zarp-Linux | 2 | One-click Cloudflare WARP unblocker using zapret2. Automatically finds working DPI bypass strategies for Linux. | [点击查看](https://github.com/ZarpVPN/Zarp-Linux) |
+| 196 | 2026-11-01 | sabi-karami/SABI-X | 0 | ⚡ SABI-X — next-gen censorship-resistant tunnel for Android · Aether · Psiphon · Tor · sing-box | [点击查看](https://github.com/sabi-karami/SABI-X) |
+| 197 | 2026-11-01 | talaria0101/tcp-udp-freedom | 0 | TCP and UDP for all processes on a host behind a TCP-only authenticated HTTP CONNECT proxy, using a local relay and Cloudflare WARP MASQUE over HTTP/2 | [点击查看](https://github.com/talaria0101/tcp-udp-freedom) |
+| 198 | 2026-11-01 | routepilot-lab/RoutePilot | 0 | OpenWrt / LuCI 路由器分流插件：Cloudflare WARP (MASQUE) 主线路、按设备/LAN 分流、DNS 诊断与手动 Workers 备用。OpenWrt policy routing with Cloudflare WARP/MASQUE and a manual Workers backup. | [点击查看](https://github.com/routepilot-lab/RoutePilot) |
+| 199 | 2026-11-01 | callmebroda/usque-build | 0 | Builds the Usque Proton-mode APK from upstream | [点击查看](https://github.com/callmebroda/usque-build) |
