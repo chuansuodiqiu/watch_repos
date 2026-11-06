@@ -2,8 +2,8 @@
 
 > 关键词: `warp masque` / `zerotrust masque` / `usque` / `aether masque` / `WarpScout`  
 > 排序: 按项目创建时间（从早到晚）  
-> 最后更新: 2026-11-05 04:14:49 UTC  
-> 共 205 个项目
+> 最后更新: 2026-11-06 04:12:08 UTC  
+> 共 206 个项目
 
 | # | 创建时间 | 项目名 | Star | 项目介绍 | 链接 |
 | ---: | --- | --- | ---: | --- | --- |
@@ -209,6 +209,7 @@
 | 200 | 2026-11-01 | routepilot-lab/RoutePilot | 0 | OpenWrt / LuCI 路由器分流插件：Cloudflare WARP (MASQUE) 主线路、按设备/LAN 分流、DNS 诊断与手动 Workers 备用。OpenWrt policy routing with Cloudflare WARP/MASQUE and a manual Workers backup. | [点击查看](https://github.com/routepilot-lab/RoutePilot) |
 | 201 | 2026-11-01 | callmebroda/usque-build | 0 | Builds the Usque Proton-mode APK from upstream | [点击查看](https://github.com/callmebroda/usque-build) |
 | 202 | 2026-11-01 | bia-pain-bache/BPB-VPN | 77 | An open-source VPN client for bypassing censorship, with self-deployed Cloudflare Workers, WARP, MASQUE, Psiphon, Tor and Chain proxies. | [点击查看](https://github.com/bia-pain-bache/BPB-VPN) |
-| 203 | 2026-11-02 | MercuryWorkshop/pymasque | 4 | A minimal implementation of a Cloudflare Warp MASQUE client in Python. | [点击查看](https://github.com/MercuryWorkshop/pymasque) |
-| 204 | 2026-11-03 | DarknessShade/Masque-Generator | 12 | MASQUE Config Generator / WARP MASQUE to Xray | [点击查看](https://github.com/DarknessShade/Masque-Generator) |
-| 205 | 2026-11-04 | SarmadBytes/warp-panel | 0 | Windows panel for the official Cloudflare WARP client: fixes 'Connecting' on DPI-filtered networks (MASQUE over HTTP/2, best endpoint, auto-failover) | [点击查看](https://github.com/SarmadBytes/warp-panel) |
+| 203 | 2026-11-01 | routepilot-lab/imok | 0 | imok（原 RoutePilot）· OpenWrt / LuCI 路由器分流：Cloudflare WARP / MASQUE 主线路、按设备或 LAN 分流、DNS 诊断与手动 Workers 备用。OpenWrt policy routing with Cloudflare WARP/MASQUE. | [点击查看](https://github.com/routepilot-lab/imok) |
+| 204 | 2026-11-02 | MercuryWorkshop/pymasque | 4 | A minimal implementation of a Cloudflare Warp MASQUE client in Python. | [点击查看](https://github.com/MercuryWorkshop/pymasque) |
+| 205 | 2026-11-03 | DarknessShade/Masque-Generator | 12 | MASQUE Config Generator / WARP MASQUE to Xray | [点击查看](https://github.com/DarknessShade/Masque-Generator) |
+| 206 | 2026-11-04 | SarmadBytes/warp-panel | 0 | Windows panel for the official Cloudflare WARP client: fixes 'Connecting' on DPI-filtered networks (MASQUE over HTTP/2, best endpoint, auto-failover) | [点击查看](https://github.com/SarmadBytes/warp-panel) |
