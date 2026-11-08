@@ -2,8 +2,8 @@
 
 > 关键词: `warp masque` / `zerotrust masque` / `usque` / `aether masque` / `WarpScout`  
 > 排序: 按项目创建时间（从早到晚）  
-> 最后更新: 2026-11-07 03:44:09 UTC  
-> 共 206 个项目
+> 最后更新: 2026-11-08 03:21:55 UTC  
+> 共 207 个项目
 
 | # | 创建时间 | 项目名 | Star | 项目介绍 | 链接 |
 | ---: | --- | --- | ---: | --- | --- |
@@ -213,3 +213,4 @@
 | 204 | 2026-11-02 | MercuryWorkshop/pymasque | 4 | A minimal implementation of a Cloudflare Warp MASQUE client in Python. | [点击查看](https://github.com/MercuryWorkshop/pymasque) |
 | 205 | 2026-11-03 | DarknessShade/Masque-Generator | 12 | MASQUE Config Generator / WARP MASQUE to Xray | [点击查看](https://github.com/DarknessShade/Masque-Generator) |
 | 206 | 2026-11-04 | SarmadBytes/warp-panel | 0 | Windows panel for the official Cloudflare WARP client: fixes 'Connecting' on DPI-filtered networks (MASQUE over HTTP/2, best endpoint, auto-failover) | [点击查看](https://github.com/SarmadBytes/warp-panel) |
+| 207 | 2026-11-07 | imgutss/omni | 0 | Omni Panel — Cloudflare dashboard, Telegram operations, WARP & MASQUE Studio | [点击查看](https://github.com/imgutss/omni) |
