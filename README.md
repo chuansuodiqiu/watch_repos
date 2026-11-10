@@ -2,8 +2,8 @@
 
 > 关键词: `warp masque` / `zerotrust masque` / `usque` / `aether masque` / `WarpScout`  
 > 排序: 按项目创建时间（从早到晚）  
-> 最后更新: 2026-11-09 03:40:29 UTC  
-> 共 134 个项目
+> 最后更新: 2026-11-10 05:13:16 UTC  
+> 共 136 个项目
 
 | # | 创建时间 | 项目名 | Star | 项目介绍 | 链接 |
 | ---: | --- | --- | ---: | --- | --- |
@@ -133,11 +133,13 @@
 | 124 | 2026-10-29 | RIX-REZA/RIX-AETHER | 46 | Material 3 Android client for the Aether WARP / MASQUE core — it never says «متصل» until a real request has come back through the tunnel. | [点击查看](https://github.com/RIX-REZA/RIX-AETHER) |
 | 125 | 2026-10-29 | AlfasyMaor2434/usque-attitude-estimation | 0 | (无描述) | [点击查看](https://github.com/AlfasyMaor2434/usque-attitude-estimation) |
 | 126 | 2026-10-30 | PsyGioX/zapret-warp-for-games | 1 | Набор BAT-файлов для Windows. zapret (winws + WinDivert) помогает подключиться к Cloudflare WARP (MASQUE), а WARP пускает через себя трафик любой игры и любого лаунчера. | [点击查看](https://github.com/PsyGioX/zapret-warp-for-games) |
-| 127 | 2026-11-01 | routepilot-lab/imok | 0 | imok（原 RoutePilot）· OpenWrt / LuCI 路由器分流：Cloudflare WARP / MASQUE 主线路、按设备或 LAN 分流、DNS 诊断与手动 Workers 备用。OpenWrt policy routing with Cloudflare WARP/MASQUE. | [点击查看](https://github.com/routepilot-lab/imok) |
-| 128 | 2026-11-01 | bia-pain-bache/BPB-VPN | 294 | An open-source VPN client for bypassing censorship, with self-deployed Cloudflare Workers, WARP, MASQUE, Psiphon, Tor and Chain proxies. | [点击查看](https://github.com/bia-pain-bache/BPB-VPN) |
-| 129 | 2026-11-01 | ZarpVPN/Zarp-Linux | 3 | One-click Cloudflare WARP unblocker using zapret2. Automatically finds working DPI bypass strategies for Linux. | [点击查看](https://github.com/ZarpVPN/Zarp-Linux) |
-| 130 | 2026-11-01 | sabi-karami/SABI-X | 1 | ⚡ SABI-X — next-gen censorship-resistant tunnel for Android · Aether · Psiphon · Tor · sing-box | [点击查看](https://github.com/sabi-karami/SABI-X) |
-| 131 | 2026-11-02 | MercuryWorkshop/pymasque | 8 | A minimal implementation of a Cloudflare Warp MASQUE client in Python. | [点击查看](https://github.com/MercuryWorkshop/pymasque) |
-| 132 | 2026-11-03 | DarknessShade/Masque-Generator | 25 | MASQUE Config Generator / WARP MASQUE to Xray | [点击查看](https://github.com/DarknessShade/Masque-Generator) |
-| 133 | 2026-11-04 | SarmadBytes/warp-panel | 0 | Windows panel for the official Cloudflare WARP client: fixes 'Connecting' on DPI-filtered networks (MASQUE over HTTP/2, best endpoint, auto-failover) | [点击查看](https://github.com/SarmadBytes/warp-panel) |
-| 134 | 2026-11-07 | imgutss/omni | 0 | Omni Panel — Cloudflare dashboard, Telegram operations, WARP & MASQUE Studio | [点击查看](https://github.com/imgutss/omni) |
+| 127 | 2026-10-31 | PodUtils/podnet | 1 | Cloudflare tunnel connector, WARP/MASQUE and Zero Trust client in user space, reaching the edge on outbound TCP 443 only. | [点击查看](https://github.com/PodUtils/podnet) |
+| 128 | 2026-11-01 | routepilot-lab/imok | 0 | imok（原 RoutePilot）· OpenWrt / LuCI 路由器分流：Cloudflare WARP / MASQUE 主线路、按设备或 LAN 分流、DNS 诊断与手动 Workers 备用。OpenWrt policy routing with Cloudflare WARP/MASQUE. | [点击查看](https://github.com/routepilot-lab/imok) |
+| 129 | 2026-11-01 | bia-pain-bache/BPB-VPN | 294 | An open-source VPN client for bypassing censorship, with self-deployed Cloudflare Workers, WARP, MASQUE, Psiphon, Tor and Chain proxies. | [点击查看](https://github.com/bia-pain-bache/BPB-VPN) |
+| 130 | 2026-11-01 | ZarpVPN/Zarp-Linux | 3 | One-click Cloudflare WARP unblocker using zapret2. Automatically finds working DPI bypass strategies for Linux. | [点击查看](https://github.com/ZarpVPN/Zarp-Linux) |
+| 131 | 2026-11-01 | sabi-karami/SABI-X | 1 | ⚡ SABI-X — next-gen censorship-resistant tunnel for Android · Aether · Psiphon · Tor · sing-box | [点击查看](https://github.com/sabi-karami/SABI-X) |
+| 132 | 2026-11-02 | MercuryWorkshop/pymasque | 8 | A minimal implementation of a Cloudflare Warp MASQUE client in Python. | [点击查看](https://github.com/MercuryWorkshop/pymasque) |
+| 133 | 2026-11-03 | DarknessShade/Masque-Generator | 25 | MASQUE Config Generator / WARP MASQUE to Xray | [点击查看](https://github.com/DarknessShade/Masque-Generator) |
+| 134 | 2026-11-04 | SarmadBytes/warp-panel | 0 | Windows panel for the official Cloudflare WARP client: fixes 'Connecting' on DPI-filtered networks (MASQUE over HTTP/2, best endpoint, auto-failover) | [点击查看](https://github.com/SarmadBytes/warp-panel) |
+| 135 | 2026-11-07 | imgutss/omni | 0 | Omni Panel — Cloudflare dashboard, Telegram operations, WARP & MASQUE Studio | [点击查看](https://github.com/imgutss/omni) |
+| 136 | 2026-11-09 | kenzok8/openwrt-usque | 2 | Usque for OpenWrt: Cloudflare WARP (MASQUE) 客户端插件 | [点击查看](https://github.com/kenzok8/openwrt-usque) |
