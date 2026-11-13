@@ -2,8 +2,8 @@
 
 > 关键词: `warp masque` / `zerotrust masque` / `usque` / `aether masque` / `WarpScout`  
 > 排序: 按项目创建时间（从早到晚）  
-> 最后更新: 2026-11-12 04:53:47 UTC  
-> 共 143 个项目
+> 最后更新: 2026-11-13 04:05:30 UTC  
+> 共 146 个项目
 
 | # | 创建时间 | 项目名 | Star | 项目介绍 | 链接 |
 | ---: | --- | --- | ---: | --- | --- |
@@ -150,3 +150,6 @@
 | 141 | 2026-11-10 | iknalos/WarpGo-Windows | 0 | WarpGo for Windows: free Cloudflare WARP client (unofficial) for Windows 10/11. One-click 1.1.1.1 WARP VPN tunnel over WireGuard or MASQUE (HTTP/3). Auto mode finds what works on school, campus and office Wi-Fi that blocks VPNs. Installer .exe | [点击查看](https://github.com/iknalos/WarpGo-Windows) |
 | 142 | 2026-11-10 | pccr10001/wgcfzt | 0 | Go CLI for Cloudflare Zero Trust registration, VNET selection, WireGuard and usque config export | [点击查看](https://github.com/pccr10001/wgcfzt) |
 | 143 | 2026-11-10 | finem-mundi/usque-ad-finem-mundi | 0 | (无描述) | [点击查看](https://github.com/finem-mundi/usque-ad-finem-mundi) |
+| 144 | 2026-11-12 | KarimElsayad247/netlify-proxy | 0 | Routes a small set of blackholed Netlify CDN addresses through a Cloudflare WARP tunnel (MASQUE), | [点击查看](https://github.com/KarimElsayad247/netlify-proxy) |
+| 145 | 2026-11-12 | DefectiveVortex/WarpSwitch | 0 | System-wide Cloudflare WARP for Windows that finds its way through restricted networks. One button, Mobile Hotspot sharing, kill switch, auto-updates. | [点击查看](https://github.com/DefectiveVortex/WarpSwitch) |
+| 146 | 2026-11-13 | max-mapper/warptail | 0 | Tailscale exit node that egresses only via Cloudflare WARP (MASQUE or WireGuard), with a verifiable kill switch | [点击查看](https://github.com/max-mapper/warptail) |
