@@ -2,8 +2,8 @@
 
 > 关键词: `warp masque` / `zerotrust masque` / `usque` / `aether masque` / `WarpScout`  
 > 排序: 按项目创建时间（从早到晚）  
-> 最后更新: 2026-11-14 04:02:10 UTC  
-> 共 146 个项目
+> 最后更新: 2026-11-15 02:57:56 UTC  
+> 共 149 个项目
 
 | # | 创建时间 | 项目名 | Star | 项目介绍 | 链接 |
 | ---: | --- | --- | ---: | --- | --- |
@@ -153,3 +153,6 @@
 | 144 | 2026-11-12 | KarimElsayad247/netlify-proxy | 0 | Routes a small set of blackholed Netlify CDN addresses through a Cloudflare WARP tunnel (MASQUE), | [点击查看](https://github.com/KarimElsayad247/netlify-proxy) |
 | 145 | 2026-11-12 | DefectiveVortex/WarpSwitch | 0 | System-wide Cloudflare WARP for Windows that finds its way through restricted networks. One button, Mobile Hotspot sharing, kill switch, auto-updates. | [点击查看](https://github.com/DefectiveVortex/WarpSwitch) |
 | 146 | 2026-11-13 | max-mapper/warptail | 0 | Tailscale exit node that egresses only via Cloudflare WARP (MASQUE or WireGuard), with a verifiable kill switch | [点击查看](https://github.com/max-mapper/warptail) |
+| 147 | 2026-11-14 | JOOOOOJA/VPSLink | 3 | VPSLink PoC for Windows: local AmneziaWG UDP over SSH, optional WARP MASQUE and persistent HTTPS gateway. | [点击查看](https://github.com/JOOOOOJA/VPSLink) |
+| 148 | 2026-11-14 | sasa200000/TurboVPN | 0 | TurboVPN — Android VPN app: WARP-in-WARP, MASQUE, Lantern, URnetwork, MAE, FENIX and more. Free, no subscription. | [点击查看](https://github.com/sasa200000/TurboVPN) |
+| 149 | 2026-11-14 | usquedeo-dot/usquedeo.com | 0 | Usquedeo: an independent culture magazine. Built site files for usquedeo.com. | [点击查看](https://github.com/usquedeo-dot/usquedeo.com) |
