@@ -2,8 +2,8 @@
 
 > 关键词: `warp masque` / `zerotrust masque` / `usque` / `aether masque` / `WarpScout`  
 > 排序: 按项目创建时间（从早到晚）  
-> 最后更新: 2026-11-18 05:07:45 UTC  
-> 共 156 个项目
+> 最后更新: 2026-11-19 05:01:13 UTC  
+> 共 159 个项目
 
 | # | 创建时间 | 项目名 | Star | 项目介绍 | 链接 |
 | ---: | --- | --- | ---: | --- | --- |
@@ -163,3 +163,6 @@
 | 154 | 2026-11-16 | sagehere/warp-masque-web | 0 | 基于 usque 的 WARP MASQUE 网页注册与配置生成工具，支持 v2rayN / Xray，简体中文、轻量部署。 | [点击查看](https://github.com/sagehere/warp-masque-web) |
 | 155 | 2026-11-17 | Yareks/UwUvpn | 0 | Ultra-lightweight Android VPN & Telegram proxy client powered by a 100% Rust core (VLESS REALITY/XHTTP, Hysteria2, WARP MASQUE-Chain, RU Whitelist, MTProto Fake-TLS & TG-WS) | [点击查看](https://github.com/Yareks/UwUvpn) |
 | 156 | 2026-11-17 | bluee1111/egern-warp | 0 | Cloudflare WARP WireGuard profile for Egern (converted from MASQUE config) | [点击查看](https://github.com/bluee1111/egern-warp) |
+| 157 | 2026-11-18 | bluepebblex-dev/openwrt-ace | 0 | ACE — Cloudflare WARP / AmneziaWG / MASQUE 客户端，Go 引擎直接跑在路由器上，整屋 TUN 接管 + LuCI 界面（与 macOS 桌面端同构） | [点击查看](https://github.com/bluepebblex-dev/openwrt-ace) |
+| 158 | 2026-11-18 | kichcloud/omarchy-dpi-pilot | 0 | Zapret2 DPI bypass + optional WARP MASQUE for Omarchy | [点击查看](https://github.com/kichcloud/omarchy-dpi-pilot) |
+| 159 | 2026-11-18 | 6Kmfi6HP/warp-mihomo | 0 | WARP MASQUE pool for mihomo: one front, rotating exits, TUN shared by other containers | [点击查看](https://github.com/6Kmfi6HP/warp-mihomo) |
