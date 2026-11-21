@@ -2,8 +2,8 @@
 
 > 关键词: `warp masque` / `zerotrust masque` / `usque` / `aether masque` / `WarpScout`  
 > 排序: 按项目创建时间（从早到晚）  
-> 最后更新: 2026-11-20 04:52:05 UTC  
-> 共 160 个项目
+> 最后更新: 2026-11-21 04:47:29 UTC  
+> 共 164 个项目
 
 | # | 创建时间 | 项目名 | Star | 项目介绍 | 链接 |
 | ---: | --- | --- | ---: | --- | --- |
@@ -167,3 +167,7 @@
 | 158 | 2026-11-18 | bluepebblex-dev/openwrt-ace | 0 | ACE — Cloudflare WARP / AmneziaWG / MASQUE 客户端，Go 引擎直接跑在路由器上，整屋 TUN 接管 + LuCI 界面（与 macOS 桌面端同构） | [点击查看](https://github.com/bluepebblex-dev/openwrt-ace) |
 | 159 | 2026-11-18 | kichcloud/omarchy-dpi-pilot | 0 | Zapret2 DPI bypass + optional WARP MASQUE for Omarchy | [点击查看](https://github.com/kichcloud/omarchy-dpi-pilot) |
 | 160 | 2026-11-18 | 6Kmfi6HP/warp-mihomo | 0 | WARP MASQUE pool for mihomo: one front, rotating exits, TUN shared by other containers | [点击查看](https://github.com/6Kmfi6HP/warp-mihomo) |
+| 161 | 2026-11-20 | 0xdfuzz/unlimitedcode | 1 | Single-binary local egress proxy & in-process WARP MASQUE pool + native TUI/Desktop plugin for OpenCode | [点击查看](https://github.com/0xdfuzz/unlimitedcode) |
+| 162 | 2026-11-20 | KJGX66F/FreeResiPanel | 0 | 免费住宅IP面板:VPN Gate 家宽节点抓取 + mihomo 订阅,内置 WARP/AWG 与 MASQUE 前置链路与智能选择 | [点击查看](https://github.com/KJGX66F/FreeResiPanel) |
+| 163 | 2026-11-20 | HattabbI4/warpscout-gui | 2 | Нативное десктопное приложение для Windows 10/11 для сканера warpscout на .NET 8 WPF + WPF-UI. | [点击查看](https://github.com/HattabbI4/warpscout-gui) |
+| 164 | 2026-11-20 | zipfo/luci-app-warpscout | 0 | LuCI app that automates scan and apply available Cloudflare WARP endpoints via warpscout binary on OpenWRT | [点击查看](https://github.com/zipfo/luci-app-warpscout) |
