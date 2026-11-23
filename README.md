@@ -2,8 +2,8 @@
 
 > 关键词: `warp masque` / `zerotrust masque` / `usque` / `aether masque` / `WarpScout`  
 > 排序: 按项目创建时间（从早到晚）  
-> 最后更新: 2026-11-22 04:01:52 UTC  
-> 共 164 个项目
+> 最后更新: 2026-11-23 04:44:40 UTC  
+> 共 168 个项目
 
 | # | 创建时间 | 项目名 | Star | 项目介绍 | 链接 |
 | ---: | --- | --- | ---: | --- | --- |
@@ -171,3 +171,7 @@
 | 162 | 2026-11-20 | KJGX66F/FreeResiPanel | 0 | 免费住宅IP面板:VPN Gate 家宽节点抓取 + mihomo 订阅,内置 WARP/AWG 与 MASQUE 前置链路与智能选择 | [点击查看](https://github.com/KJGX66F/FreeResiPanel) |
 | 163 | 2026-11-20 | HattabbI4/warpscout-gui | 2 | Нативное десктопное приложение для Windows 10/11 для сканера warpscout на .NET 8 WPF + WPF-UI. | [点击查看](https://github.com/HattabbI4/warpscout-gui) |
 | 164 | 2026-11-20 | zipfo/luci-app-warpscout | 0 | LuCI app that automates scan and apply available Cloudflare WARP endpoints via warpscout binary on OpenWRT | [点击查看](https://github.com/zipfo/luci-app-warpscout) |
+| 165 | 2026-11-21 | xCONFLiCTiONx/xPrivacyVPN-Windows | 0 | A native Windows companion to xPrivacyVPN for Android.  Features Cloudflare One / Zero Trust (MASQUE via Aether): Email one-time-code sign-in (Request Code → Verify & Enroll) and Service Token authentication. Persistent enrolled device identity and MASQUE certificate storage. | [点击查看](https://github.com/xCONFLiCTiONx/xPrivacyVPN-Windows) |
+| 166 | 2026-11-22 | mx57/awg-config-android | 0 | Android-приложение: генератор и пакетный генератор конфигов AmneziaWG / Cloudflare WARP / MASQUE со встроенным VPN-туннелем (порт функций awgconfig.com) | [点击查看](https://github.com/mx57/awg-config-android) |
+| 167 | 2026-11-22 | MahdiRaahimi/BPB-VPN | 1 | Open-source BPB VPN for Windows and Android. Windows VPN client with Xray, Psiphon, Tor, VLESS, WARP, MASQUE, and Wintun. | [点击查看](https://github.com/MahdiRaahimi/BPB-VPN) |
+| 168 | 2026-11-23 | ljste/OpenWARP | 0 | Lightweight, open-source macOS client for Cloudflare WARP. Native Swift menu bar and Rust MASQUE tunnel for IPv4, IPv6, and DNS. | [点击查看](https://github.com/ljste/OpenWARP) |
