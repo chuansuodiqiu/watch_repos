@@ -2,8 +2,8 @@
 
 > 关键词: `warp masque` / `zerotrust masque` / `usque` / `aether masque` / `WarpScout`  
 > 排序: 按项目创建时间（从早到晚）  
-> 最后更新: 2026-11-24 07:35:37 UTC  
-> 共 173 个项目
+> 最后更新: 2026-11-25 06:04:19 UTC  
+> 共 175 个项目
 
 | # | 创建时间 | 项目名 | Star | 项目介绍 | 链接 |
 | ---: | --- | --- | ---: | --- | --- |
@@ -180,3 +180,5 @@
 | 171 | 2026-11-23 | pryanus/PryWarp-WARP-for-Browser | 0 | PryWarp — WARP for Browser: точечный обход YouTube и выбранных сайтов через локальный Cloudflare WARP (usque) без VPN-адаптера | [点击查看](https://github.com/pryanus/PryWarp-WARP-for-Browser) |
 | 172 | 2026-11-24 | naobyprawira/warp-rotating-proxy | 0 | Lightweight Python stdlib HTTP CONNECT proxy over rotating Cloudflare WARP MASQUE tunnels | [点击查看](https://github.com/naobyprawira/warp-rotating-proxy) |
 | 173 | 2026-11-24 | looomix/Warp-Masque-free | 1 | 使用 GitHub Actions 自动生成 Cloudflare WARP MASQUE 订阅与 Clash 配置，支持 gh-proxy 镜像与静态站点托管 | [点击查看](https://github.com/looomix/Warp-Masque-free) |
+| 174 | 2026-11-24 | mengxianbo/WARP-MASQUE-Android | 0 | Cloudflare WARP-MASQUE-Android | [点击查看](https://github.com/mengxianbo/WARP-MASQUE-Android) |
+| 175 | 2026-11-24 | cartchai/sing-box-lx | 0 | Mirror of Leadaxe/sing-box-lx v1.14.4-lx.36 (sing-box with a WARP MASQUE outbound) — dependency mirror for PlenTV, so the in-app VPN build does not hinge on one upstream repo staying up. | [点击查看](https://github.com/cartchai/sing-box-lx) |
